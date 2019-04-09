@@ -1,0 +1,20 @@
+{
+  "name": "1001-albums-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js localhost 8080"
+  },
+  "dependencies": {
+    "axios": "0.18.0",
+    "chalk": "2.4.2",
+    "cheerio": "1.0.0-rc.3",
+    "cors": "2.8.5",
+    "esm": "3.2.22",
+    "express": "4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  }
+}
