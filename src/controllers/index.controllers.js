@@ -77,7 +77,7 @@ const exportResults = parsedResults => {
   });
 };
 
-// getWebsiteContent(url);
+getWebsiteContent(url);
 
 module.exports = {
   getWebsiteContent,
