@@ -29,18 +29,22 @@ const getWebsiteContent = async url => {
         .find(".item-name")
         .text()
         .trim();
+
+      const splitTitle = title.split(" - ");
+      const artist = splitTitle ? splitTitle[0] : null;
+      const album = splitTitle ? splitTitle[1] : null;
       const src = $(el)
         .find(".item-image-wrapper img")
         .attr("src");
       const metadata = {
         id: count,
         title: title,
-        artist: null,
-        album: null,
+        artist: artist,
+        album: album,
         year: null,
         genre: null,
         recordLabel: null,
-        cover: src,
+        cover: `https://www.listchallenges.com${src}`,
       };
       parsedResults.push(metadata);
     });
