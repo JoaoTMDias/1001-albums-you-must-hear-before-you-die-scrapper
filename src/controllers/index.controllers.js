@@ -3,13 +3,14 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const chalk = require("chalk");
 
-const url =
-  "https://www.listchallenges.com/1001-albums-you-must-hear-before-you-die-2016/";
 const outputFile = "data.json";
 const parsedResults = [];
 const pageLimit = 26;
 let pageCounter = 0;
 let resultCount = 0;
+const url =
+  `https://www.listchallenges.com/1001-albums-you-must-hear-before-you-die-2016/checklist/${pageCounter + 1}`;
+
 
 console.log(
   chalk.yellow.bgBlue(
@@ -32,21 +33,25 @@ const getWebsiteContent = async url => {
         .find(".item-image-wrapper img")
         .attr("src");
       const metadata = {
-        count: count,
+        id: count,
         title: title,
-        src: src,
+        artist: null,
+        album: null,
+        year: null,
+        genre: null,
+        recordLabel: null,
+        cover: src,
       };
       parsedResults.push(metadata);
     });
 
     // Pagination Elements Link
-    const nextPageLink = $(".pagination")
-      .find(".active")
-      .next()
-      .find("a")
-      .attr("href");
-    console.log(chalk.cyan(`  Scraping: ${nextPageLink}`));
     pageCounter++;
+
+    const nextPageLink =
+      `https://www.listchallenges.com/1001-albums-you-must-hear-before-you-die-2016/checklist/${pageCounter + 1}`;
+
+    console.log(chalk.cyan(`  Scraping: ${nextPageLink}`));
 
     if (pageCounter === pageLimit) {
       exportResults(parsedResults);
