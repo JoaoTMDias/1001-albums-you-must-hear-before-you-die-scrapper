@@ -1,8 +1,21 @@
-const express = require("express");
+// Libraries
+import express from 'express';
+
+// Router
 const routes = express.Router();
 
-const AlbumsController = require("../controllers/index.controllers");
+// Controllers
+import { getWebsiteContent } from "../controllers/scrapper.controllers";
 
-routes.get("/", AlbumsController.getWebsiteContent);
+// Routes
+routes.get("/", (req, res) => res.send('1001 Albums'));
+routes.get("/scrapper", async function(req, res){
+    const counter = 1;
+    const result = await getWebsiteContent(counter);
 
-module.exports = routes;
+    res.send(result);
+});
+
+export {
+    routes
+};

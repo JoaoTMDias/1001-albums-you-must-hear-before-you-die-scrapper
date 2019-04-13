@@ -1,0 +1,7281 @@
+[{
+        "id": 0,
+        "artist": "Frank Sinatra",
+        "album": "In the Wee Small Hours",
+        "year": "1955",
+        "cover": "https://www.listchallenges.com/f/items/eb87ff55-0be4-41b6-88b7-b6858668fe70.jpg"
+    },
+    {
+        "id": 1,
+        "artist": "Elvis Presley",
+        "album": "Elvis Presley",
+        "year": "1956",
+        "cover": "https://www.listchallenges.com/f/items/5a33631d-6360-4666-b668-e6246930991d.jpg"
+    },
+    {
+        "id": 2,
+        "artist": "The Louvin Brothers",
+        "album": "Tragic Songs of Life",
+        "year": "1956",
+        "cover": "https://www.listchallenges.com/f/items/3eb328b3-0a42-4281-861b-38f09c464ffa.jpg"
+    },
+    {
+        "id": 3,
+        "artist": "Louis Prima",
+        "album": "The Wildest!",
+        "year": "1956",
+        "cover": "https://www.listchallenges.com/f/items/bd3116fc-6ce8-448c-9618-f9d2fc3d85ae.jpg"
+    },
+    {
+        "id": 4,
+        "artist": "Fats Domino",
+        "album": "This Is Fats",
+        "year": "1956",
+        "cover": "https://www.listchallenges.com/f/items/d179f50b-4a86-4d4d-957e-d02c58c81779.jpg"
+    },
+    {
+        "id": 5,
+        "artist": "Frank Sinatra",
+        "album": "Songs for Swinging Lovers!",
+        "year": "1956",
+        "cover": "https://www.listchallenges.com/f/items/890186cf-0a4e-4db8-a8fe-7cf22c58aafa.jpg"
+    },
+    {
+        "id": 6,
+        "artist": "Duke Ellington",
+        "album": "Ellington at Newport '56",
+        "year": "1956",
+        "cover": "https://www.listchallenges.com/f/items/0c8fcb17-9cfc-4202-8cdc-93d8bf21f7d3.jpg"
+    },
+    {
+        "id": 7,
+        "artist": "Count Basie",
+        "album": "The Atomic Mr Basie",
+        "year": "1958",
+        "cover": "https://www.listchallenges.com/f/items/b6cf6f62-b68d-43c1-8d76-f2421e29c07f.jpg"
+    },
+    {
+        "id": 8,
+        "artist": "Miles Davis",
+        "album": "Birth of the Cool",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 9,
+        "artist": "Sabu",
+        "album": "Palo Congo",
+        "year": "1957",
+        "cover": null
+    },
+    {
+        "id": 10,
+        "artist": "Thelonious Monk",
+        "album": "Brilliant Corners",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 11,
+        "artist": "Machito",
+        "album": "Kenya",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 12,
+        "artist": "Little Richard",
+        "album": "Here's Little Richard",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 13,
+        "artist": "Buddy Holly and the Crickets",
+        "album": "The 'Chirping' Crickets",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 14,
+        "artist": "Tito Puente",
+        "album": "Dance Mania",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 15,
+        "artist": "Billie Holiday",
+        "album": "Lady in Satin",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 16,
+        "artist": "Ramblin' Jack Elliott",
+        "album": "Jack Takes the Floor",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 17,
+        "artist": "Sarah Vaughan",
+        "album": "Sarah Vaughan at Mister Kelly's",
+        "year": "1958",
+        "cover": null
+    },
+    {
+        "id": 18,
+        "artist": "Ella Fitzgerald",
+        "album": "Sings the Gershwin Song Book",
+        "year": "1959",
+        "cover": null
+    },
+    {
+        "id": 19,
+        "artist": "Miles Davis",
+        "album": "Kind of Blue",
+        "year": "1959",
+        "cover": null
+    },
+    {
+        "id": 20,
+        "artist": "Ray Charles",
+        "album": "Genius of Ray Charles",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 21,
+        "artist": "Marty Robbins",
+        "album": "Gunfighter Ballads and Trail Songs",
+        "year": "1959",
+        "cover": null
+    },
+    {
+        "id": 22,
+        "artist": "The Dave Brubeck Quartet",
+        "album": "Time Out",
+        "year": "1959",
+        "cover": null
+    },
+    {
+        "id": 23,
+        "artist": "Elvis Presley",
+        "album": "Elvis Is Back!",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 24,
+        "artist": "Joan Baez",
+        "album": "Joan Baez",
+        "year": "1960",
+        "cover": null
+    },
+    {
+        "id": 25,
+        "artist": "Miriam Makeba",
+        "album": "Miriam Makeba",
+        "year": "1960",
+        "cover": null
+    },
+    {
+        "id": 26,
+        "artist": "Bill Evans",
+        "album": "Sunday at the Village Vanguard",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 27,
+        "artist": "Muddy Waters",
+        "album": "Muddy Waters at Newport",
+        "year": "1960",
+        "cover": null
+    },
+    {
+        "id": 28,
+        "artist": "The Everly Brothers",
+        "album": "A Date With the Everly Brothers",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 29,
+        "artist": "Stan Getz & Charlie Byrd",
+        "album": "Jazz Samba",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 30,
+        "artist": "Booker T. & the M.G.'S",
+        "album": "Green Onions",
+        "year": "1962",
+        "cover": null
+    },
+    {
+        "id": 31,
+        "artist": "Ray Charles",
+        "album": "Modern Sounds in Country and Western Music",
+        "year": "1962",
+        "cover": null
+    },
+    {
+        "id": 32,
+        "artist": "Jimmy Smith",
+        "album": "Back at the Chicken Shack",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 33,
+        "artist": "Ray Price",
+        "album": "Night Life",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 34,
+        "artist": "The Beatles",
+        "album": "With the Beatles",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 35,
+        "artist": "Phil Spector",
+        "album": "A Christmas Gift for You",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 36,
+        "artist": "Sam Cooke",
+        "album": "Live at the Harlem Square Club",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 37,
+        "artist": "Bob Dylan",
+        "album": "The Freewheelin' Bob Dylan",
+        "year": "1963",
+        "cover": null
+    },
+    {
+        "id": 38,
+        "artist": "James Brown",
+        "album": "Live at the Apollo",
+        "year": "1963",
+        "cover": null
+    },
+    {
+        "id": 39,
+        "artist": "Charles Mingus",
+        "album": "The Black Saint and the Sinner Lady",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 40,
+        "artist": "The Beatles",
+        "album": "A Hard Day's Night",
+        "year": "1964",
+        "cover": "https://www.listchallenges.com/f/items/30619de5-7573-4c8c-bf2c-ebb05266c721.jpg"
+    },
+    {
+        "id": 41,
+        "artist": "Jacques Brel",
+        "album": "Olympia '64",
+        "year": "1964",
+        "cover": "https://www.listchallenges.com/f/items/3cb4c812-b313-43c5-8943-7446b75d6afd.jpg"
+    },
+    {
+        "id": 42,
+        "artist": "Solomon Burke",
+        "album": "Rock & Soul",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/4252f5b3-8821-4041-aef2-12d2e3672fd6.jpg"
+    },
+    {
+        "id": 43,
+        "artist": "Stan Getz & João Gilberto",
+        "album": "Getz/Gilberto",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/c2e28630-0370-4a14-ab80-6df4ec936736.jpg"
+    },
+    {
+        "id": 44,
+        "artist": "Dusty Springfield",
+        "album": "A Girl Called Dusty",
+        "year": "1964",
+        "cover": "https://www.listchallenges.com/f/items/06fcd7b1-a421-47da-8ed5-530387379242.jpg"
+    },
+    {
+        "id": 45,
+        "artist": "The Rolling Stones",
+        "album": "The Rolling Stones",
+        "year": "1964",
+        "cover": "https://www.listchallenges.com/f/items/762db4be-cb2f-47c7-a5c4-4a83230bf1d2.jpg"
+    },
+    {
+        "id": 46,
+        "artist": "Buck Owens and His Buckaroos",
+        "album": "I've Got a Tiger by the Tail",
+        "year": "1964",
+        "cover": "https://www.listchallenges.com/f/items/32576728-ae7e-4f9d-8172-30f631bd9d83.jpg"
+    },
+    {
+        "id": 47,
+        "artist": "Jerry Lee Lewis",
+        "album": "Live at the Star Club Hamburg",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/d1b3c1b4-aa13-46fd-bd48-f0797bf7177e.jpg"
+    },
+    {
+        "id": 48,
+        "artist": "The Sonics",
+        "album": "Here Are the Sonics",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 49,
+        "artist": "Bob Dylan",
+        "album": "Bringing It All Back Home",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 50,
+        "artist": "Otis Redding",
+        "album": "Otis Blue: Otis Redding Sings Soul",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 51,
+        "artist": "The Beach Boys",
+        "album": "The Beach Boys Today!",
+        "year": "1965",
+        "cover": null
+    },
+    {
+        "id": 52,
+        "artist": "John Coltrane",
+        "album": "A Love Supreme",
+        "year": "1965",
+        "cover": null
+    },
+    {
+        "id": 53,
+        "artist": "B.B. King",
+        "album": "Live at the Regal",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 54,
+        "artist": "The Beatles",
+        "album": "Rubber Soul",
+        "year": "1965",
+        "cover": null
+    },
+    {
+        "id": 55,
+        "artist": "Bert Jansch",
+        "album": "Bert Jansch",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 56,
+        "artist": "The Byrds",
+        "album": "Mr. Tambourine Man",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 57,
+        "artist": "Bob Dylan",
+        "album": "Highway 61 Revisited",
+        "year": "1965",
+        "cover": null
+    },
+    {
+        "id": 58,
+        "artist": "The Who",
+        "album": "My Generation",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 59,
+        "artist": "The Beatles",
+        "album": "Revolver",
+        "year": "1966",
+        "cover": null
+    },
+    {
+        "id": 60,
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds",
+        "year": "1966",
+        "cover": null
+    },
+    {
+        "id": 61,
+        "artist": "Fred Neil",
+        "album": "Fred Neil",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 62,
+        "artist": "The Byrds",
+        "album": "Fifth Dimension",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 63,
+        "artist": "Bob Dylan",
+        "album": "Blonde on Blonde",
+        "year": "1966",
+        "cover": null
+    },
+    {
+        "id": 64,
+        "artist": "The Monks",
+        "album": "Black Monk Time",
+        "year": "1966",
+        "cover": null
+    },
+    {
+        "id": 65,
+        "artist": "The Kinks",
+        "album": "Face to Face",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 66,
+        "artist": "The Mamas & the Papas",
+        "album": "If You Can Believe Your Eyes and Ears",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 67,
+        "artist": "Paul Revere and the Raiders",
+        "album": "Midnight Ride",
+        "year": "1966",
+        "cover": null
+    },
+    {
+        "id": 68,
+        "artist": "The Mothers of Invention",
+        "album": "Freak Out!",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 69,
+        "artist": "The Rolling Stones",
+        "album": "Aftermath",
+        "year": "1966",
+        "cover": null
+    },
+    {
+        "id": 70,
+        "artist": "Simon & Garfunkel",
+        "album": "Parsley, Sage, Rosemary, & Thyme",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 71,
+        "artist": "13th Floor Elevators",
+        "album": "The Psychedelic Sounds of the 13th Floor Elevators",
+        "year": "1966",
+        "cover": null
+    },
+    {
+        "id": 72,
+        "artist": "John Mayall With Eric Clapton",
+        "album": "Blues Breakers",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 73,
+        "artist": "The Yardbirds",
+        "album": "Roger the Engineer",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 74,
+        "artist": "Nina Simone",
+        "album": "Wild Is the Wind",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 75,
+        "artist": "Astrud Gilberto",
+        "album": "Beach Samba",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 76,
+        "artist": "Nico",
+        "album": "Chelsea Girl",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 77,
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 78,
+        "artist": "Country Joe & the Fish",
+        "album": "Electric Music for the Mind and Body",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 79,
+        "artist": null,
+        "album": null,
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 80,
+        "artist": "Captain Beefheart & His Magic Band",
+        "album": "Safe as Milk",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/e8928a7d-5cae-4414-b417-4bbff3e7d51c.jpg"
+    },
+    {
+        "id": 81,
+        "artist": "Moby Grape",
+        "album": "Moby Grape",
+        "year": "1967",
+        "cover": "https://www.listchallenges.com/f/items/691d63b6-bbb2-4abd-95bb-e2668bd0b8aa.jpg"
+    },
+    {
+        "id": 82,
+        "artist": "Love",
+        "album": "Da Capo",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/9f330503-c213-4411-bc7f-84f6fd584faf.jpg"
+    },
+    {
+        "id": 83,
+        "artist": "Beau Brummels",
+        "album": "(The) Triangle",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/39d76580-7520-482b-a005-07202ab6ee4b.jpg"
+    },
+    {
+        "id": 84,
+        "artist": "The Monkees",
+        "album": "Headquarters",
+        "year": "1967",
+        "cover": "https://www.listchallenges.com/f/items/3d2e7dfc-b33d-4d5b-a4ef-51806cad8ca1.jpg"
+    },
+    {
+        "id": 85,
+        "artist": "Tim Buckley",
+        "album": "Goodbye and Hello",
+        "year": "1967",
+        "cover": "https://www.listchallenges.com/f/items/f3f3e00d-2e32-4bda-9e86-0ac3ab57f60f.jpg"
+    },
+    {
+        "id": 86,
+        "artist": "Love",
+        "album": "Forever Changes",
+        "year": "1967",
+        "cover": "https://www.listchallenges.com/f/items/f23fcbf8-bd8f-4036-a096-31d42c61bfac.jpg"
+    },
+    {
+        "id": 87,
+        "artist": "Cream",
+        "album": "Disraeli Gears",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/fef3d382-b1ad-48ff-b767-08dbcc773047.jpg"
+    },
+    {
+        "id": 88,
+        "artist": "Pink Floyd",
+        "album": "The Piper at the Gates of Dawn",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 89,
+        "artist": "The Who",
+        "album": "The Who Sell Out",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 90,
+        "artist": "The Velvet Underground and Nico",
+        "album": "The Velvet Underground & Nico",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 91,
+        "artist": "Francis Albert Sinatra & Antonio Carlos Jobim",
+        "album": "Francis Albert Sinatra & Antonio Carlos Jobim",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 92,
+        "artist": "The Doors",
+        "album": "The Doors",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 93,
+        "artist": "The Byrds",
+        "album": "Younger Than Yesterday",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 94,
+        "artist": "The Young Rascals",
+        "album": "Groovin'",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 95,
+        "artist": "Jefferson Airplane",
+        "album": "Surrealistic Pillow",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 96,
+        "artist": "The Kinks",
+        "album": "Something Else by the Kinks",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 97,
+        "artist": "Donovan",
+        "album": "Sunshine Superman",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 98,
+        "artist": "Merle Haggard",
+        "album": "I'm a Lonesome Fugitive",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 99,
+        "artist": "The Jimi Hendrix Experience",
+        "album": "Are You Experienced?",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 100,
+        "artist": "The Electric Prunes",
+        "album": "The Electric Prunes",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 101,
+        "artist": "Loretta Lynn",
+        "album": "Don't Come Home a Drinkin' (With Lovin' on Your Mind)",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 102,
+        "artist": "Shivkumar Sharma",
+        "album": "Call of the Valley",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 103,
+        "artist": "The Velvet Underground",
+        "album": "White Light/White Heat",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 104,
+        "artist": "The Jimi Hendrix Experience",
+        "album": "Axis: Bold as Love",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 105,
+        "artist": "Aretha Franklin",
+        "album": "I Never Loved a Man the Way I Love You",
+        "year": "1967",
+        "cover": null
+    },
+    {
+        "id": 106,
+        "artist": "The Rolling Stones",
+        "album": "Beggars Banquet",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 107,
+        "artist": "Traffic",
+        "album": "Traffic",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 108,
+        "artist": "The Incredible String Band",
+        "album": "The Hangman's Beautiful Daughter",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 109,
+        "artist": "The Kinks",
+        "album": "The Kinks Are the Village Green Preservation Society",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 110,
+        "artist": "Ravi Shankar",
+        "album": "The Sounds of India",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 111,
+        "artist": "Os Mutantes",
+        "album": "Os Mutantes",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 112,
+        "artist": "The Jimi Hendrix Experience",
+        "album": "Electric Ladyland",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 113,
+        "artist": "Leonard Cohen",
+        "album": "Songs of Leonard Cohen",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 114,
+        "artist": "Johnny Cash",
+        "album": "At Folsom Prison",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 115,
+        "artist": "Laura Nyro",
+        "album": "Eli and the Thirteenth Confession",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 116,
+        "artist": "Aretha Franklin",
+        "album": "Lady Soul",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 117,
+        "artist": "Blue Cheer",
+        "album": "Vincebus Eruptum",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 118,
+        "artist": "The Byrds",
+        "album": "The Notorious Byrd Brothers",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 119,
+        "artist": "Big Brother and the Holding Company",
+        "album": "Cheap Thrills",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 120,
+        "artist": "United States of America",
+        "album": "United States of America",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/f92e2e2f-36e0-4e3d-b2dc-e2cc56c20881.jpg"
+    },
+    {
+        "id": 121,
+        "artist": "Dr. John the Nighttripper",
+        "album": "Gris-Gris",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/b39845ce-8afd-4fbd-98fc-9401df12cd21.jpg"
+    },
+    {
+        "id": 122,
+        "artist": "Iron Butterfly",
+        "album": "In-A-Gadda-Da-Vida",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/1d3d8947-d4ee-40f3-9118-bac9b30db73a.jpg"
+    },
+    {
+        "id": 123,
+        "artist": "The Pretty Things",
+        "album": "S.F. Sorrow",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/115baaf0-d073-4e51-92de-2b0e6233a63c.jpg"
+    },
+    {
+        "id": 124,
+        "artist": "Simon & Garfunkel",
+        "album": "Bookends",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/888e6bd3-600e-4c1b-a90a-6fc467c1fcf1.jpg"
+    },
+    {
+        "id": 125,
+        "artist": "Small Faces",
+        "album": "Ogden's Nut Gone Flake",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/114ae2ad-1373-4d55-acaa-8af9894df945.jpg"
+    },
+    {
+        "id": 126,
+        "artist": "The Band",
+        "album": "Music From Big Pink",
+        "year": "1968",
+        "cover": "https://www.listchallenges.com/f/items/4ce6b0c0-c1cf-4a1b-8a49-396b711ef0b9.jpg"
+    },
+    {
+        "id": 127,
+        "artist": "Jeff Beck",
+        "album": "Truth",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/ae496145-992c-4ed0-a862-969958345b7b.jpg"
+    },
+    {
+        "id": 128,
+        "artist": "Caetano Veloso",
+        "album": "Caetano Veloso",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 129,
+        "artist": "Scott Walker",
+        "album": "Scott 2",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 130,
+        "artist": "The Zombies",
+        "album": "Odessey and Oracle",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 131,
+        "artist": "Van Morrison",
+        "album": "Astral Weeks",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 132,
+        "artist": "The Byrds",
+        "album": "Sweetheart of the Rodeo",
+        "year": "1968",
+        "cover": null
+    },
+    {
+        "id": 133,
+        "artist": "The Beatles",
+        "album": "The Beatles (White Album)",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 134,
+        "artist": "Mothers of Invention",
+        "album": "We're Only in It for the Money",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 135,
+        "artist": "Neil Young",
+        "album": "Everybody Knows This Is Nowhere",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 136,
+        "artist": "Captain Beefheart & His Magic Band",
+        "album": "Trout Mask Replica",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 137,
+        "artist": "Creedence Clearwater Revival",
+        "album": "Bayou Country",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 138,
+        "artist": "Crosby, Stills & Nash",
+        "album": "Crosby, Stills & Nash",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 139,
+        "artist": "Blood, Sweat & Tears",
+        "album": "Blood, Sweat & Tears",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 140,
+        "artist": "The Flying Burrito Bros",
+        "album": "The Gilded Palace of Sin",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 141,
+        "artist": "Johnny Cash",
+        "album": "At San Quentin",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 142,
+        "artist": "Creedence Clearwater Revival",
+        "album": "Green River",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 143,
+        "artist": "The Beatles",
+        "album": "Abbey Road",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 144,
+        "artist": "The Who",
+        "album": "Tommy",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 145,
+        "artist": "Miles Davis",
+        "album": "In a Silent Way",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 146,
+        "artist": "Bee Gees",
+        "album": "Odessa",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 147,
+        "artist": "Pentangle",
+        "album": "Basket of Light",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 148,
+        "artist": "The Rolling Stones",
+        "album": "Let It Bleed",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 149,
+        "artist": "Nick Drake",
+        "album": "Five Leaves Left",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 150,
+        "artist": "Dusty Springfield",
+        "album": "Dusty in Memphis",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 151,
+        "artist": "Elvis Presley",
+        "album": "From Elvis in Memphis",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 152,
+        "artist": "The Velvet Underground",
+        "album": "The Velvet Underground",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 153,
+        "artist": "Quicksilver Messenger Service",
+        "album": "Happy Trails",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 154,
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 155,
+        "artist": "The Band",
+        "album": "The Band",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 156,
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin II",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 157,
+        "artist": "MC5",
+        "album": "Kick Out the Jams",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 158,
+        "artist": "The Temptations",
+        "album": "Cloud Nine",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 159,
+        "artist": "Sly & the Family Stone",
+        "album": "Stand!",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 160,
+        "artist": "Tim Buckley",
+        "album": "Happy Sad",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/22515440-ca27-4bce-ba60-8f521c95d3c3.jpg"
+    },
+    {
+        "id": 161,
+        "artist": "Chicago",
+        "album": "Chicago Transit Authority",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/3c680c28-acc3-45de-a12b-d9dbee9ecd49.jpg"
+    },
+    {
+        "id": 162,
+        "artist": "Fairport Convention",
+        "album": "Unhalfbricking",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/8fb03375-ea85-43f3-b541-08c659e1f644.jpg"
+    },
+    {
+        "id": 163,
+        "artist": "Youngbloods",
+        "album": "Elephant Mountain",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/a1a0dc5a-c118-4e18-a7db-f6a8cd6b2dd8.jpg"
+    },
+    {
+        "id": 164,
+        "artist": "Isaac Hayes",
+        "album": "Hot Buttered Soul",
+        "year": "1969",
+        "cover": "https://www.listchallenges.com/f/items/656727f2-b5e6-4615-98f5-95eddd535bd2.jpg"
+    },
+    {
+        "id": 165,
+        "artist": "Grateful Dead",
+        "album": "Live Dead",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/628118a4-1f7c-4375-b384-f8d701270ddf.jpg"
+    },
+    {
+        "id": 166,
+        "artist": "The Kinks",
+        "album": "Arthur or the Decline and Fall of the British Empire",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/5a0188ab-9735-4e3a-b4af-5055db90dc85.jpg"
+    },
+    {
+        "id": 167,
+        "artist": "King Crimson",
+        "album": "In the Court of the Crimson King",
+        "year": "1969",
+        "cover": "https://www.listchallenges.com/f/items/a8254a6e-5b05-408d-b4a2-c82d66c17bbe.jpg"
+    },
+    {
+        "id": 168,
+        "artist": "Leonard Cohen",
+        "album": "Songs From a Room",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 169,
+        "artist": "Fairport Convention",
+        "album": "Liege & Lief",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 170,
+        "artist": "Scott Walker",
+        "album": "Scott4",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 171,
+        "artist": "The Stooges",
+        "album": "The Stooges",
+        "year": "1969",
+        "cover": null
+    },
+    {
+        "id": 172,
+        "artist": "Alexander Spence",
+        "album": "Oar",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 173,
+        "artist": "Creedence Clearwater Revival",
+        "album": "Cosmo's Factory",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 174,
+        "artist": "Frank Zappa",
+        "album": "Hot Rats",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 175,
+        "artist": "Derek and the Dominos",
+        "album": "Layla & Other Assorted Love Songs",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 176,
+        "artist": "Miles Davis",
+        "album": "Bitches Brew",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 177,
+        "artist": "Spirit",
+        "album": "Twelve Dreams of Dr. Sardonicus",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 178,
+        "artist": "Black Sabbath",
+        "album": "Black Sabbath",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 179,
+        "artist": "The Doors",
+        "album": "Morrison Hotel",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 180,
+        "artist": "Carpenters",
+        "album": "Close to You",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 181,
+        "artist": "Stephen Stills",
+        "album": "Stephen Stills",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 182,
+        "artist": "John Lennon",
+        "album": "John Lennon & Plastic Ono Band",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 183,
+        "artist": "Crosby, Stills, Nash & Young",
+        "album": "Deja Vu",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 184,
+        "artist": "Black Sabbath",
+        "album": "Paranoid",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 185,
+        "artist": "Neil Young",
+        "album": "After the Gold Rush",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 186,
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin III",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 187,
+        "artist": "Deep Purple",
+        "album": "Deep Purple in Rock",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 188,
+        "artist": "Van Morrison",
+        "album": "Moondance",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 189,
+        "artist": "Grateful Dead",
+        "album": "American Beauty",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 190,
+        "artist": "Nick Drake",
+        "album": "Bryter Layter",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 191,
+        "artist": "The Who",
+        "album": "Live at Leeds",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 192,
+        "artist": "Ananda Shankar",
+        "album": "Ananda Shankar",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 193,
+        "artist": "Soft Machine",
+        "album": "Third",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 194,
+        "artist": "Rod Stewart",
+        "album": "Gasoline Alley",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 195,
+        "artist": "George Harrison",
+        "album": "All Things Must Pass",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 196,
+        "artist": "Simon & Garfunkel",
+        "album": "Bridge Over Troubled Water",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 197,
+        "artist": "Cat Stevens",
+        "album": "Tea for the Tillerman",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 198,
+        "artist": "Traffic",
+        "album": "John Barleycorn Must Die",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 199,
+        "artist": "The Stooges",
+        "album": "Fun House",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 200,
+        "artist": "James Taylor",
+        "album": "Sweet Baby James",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/aaf45549-2e06-4c72-9d09-44d4ca952d5c.jpg"
+    },
+    {
+        "id": 201,
+        "artist": "Paul McCartney",
+        "album": "McCartney",
+        "year": "1970",
+        "cover": "https://www.listchallenges.com/f/items/847e1456-bc2d-4a17-911d-85282d5fad11.jpg"
+    },
+    {
+        "id": 202,
+        "artist": "Santana",
+        "album": "Abraxas",
+        "year": "1970",
+        "cover": "https://www.listchallenges.com/f/items/52cf5b23-efee-41b4-8722-c1a3ce0b73e3.jpg"
+    },
+    {
+        "id": 203,
+        "artist": "Syd Barrett",
+        "album": "The Madcap Laughs",
+        "year": "1970",
+        "cover": "https://www.listchallenges.com/f/items/64d8f3c2-c222-4ed3-9c2b-358781df7a15.jpg"
+    },
+    {
+        "id": 204,
+        "artist": "Jethro Tull",
+        "album": "Aqualung",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/76456792-9077-43a3-a837-dbad6f94c37e.jpg"
+    },
+    {
+        "id": 205,
+        "artist": "David Crosby",
+        "album": "If I Could Only Remember My Name",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/025a50a8-71ba-4493-90c3-435561b0003c.jpg"
+    },
+    {
+        "id": 206,
+        "artist": "Sly & the Family Stone",
+        "album": "There's a Riot Goin' on",
+        "year": "1971",
+        "cover": "https://www.listchallenges.com/f/items/bca19bf7-cd9d-44b5-896e-f6f510d8ef1d.jpg"
+    },
+    {
+        "id": 207,
+        "artist": "Marvin Gaye",
+        "album": "What's Going On",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/98f24de5-5495-4be4-bf2e-61cb6ec40476.jpg"
+    },
+    {
+        "id": 208,
+        "artist": "Bee Gees",
+        "album": "Trafalgar",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 209,
+        "artist": "The Yes Album",
+        "album": "Yes",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 210,
+        "artist": "The Who",
+        "album": "Who's Next",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 211,
+        "artist": "Carole King",
+        "album": "Tapestry",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 212,
+        "artist": "Isaac Hayes",
+        "album": "Shaft: Music From the Soundtrack",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 213,
+        "artist": "The Allman Brothers Band",
+        "album": "At Fillmore East",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 214,
+        "artist": "The Rolling Stones",
+        "album": "Sticky Fingers",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 215,
+        "artist": "John Lennon",
+        "album": "Imagine",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 216,
+        "artist": "The Beach Boys",
+        "album": "Surf's Up",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 217,
+        "artist": "Yes",
+        "album": "Fragile",
+        "year": "1970",
+        "cover": null
+    },
+    {
+        "id": 218,
+        "artist": "The Doors",
+        "album": "L.A. Woman",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 219,
+        "artist": "Can",
+        "album": "Tago Mago",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 220,
+        "artist": "Elton John",
+        "album": "Madman Across the Water",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 221,
+        "artist": "Dolly Parton",
+        "album": "Coat of Many Colors",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 222,
+        "artist": "Don Mclean",
+        "album": "American Pie",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 223,
+        "artist": "Emerson, Lake & Palmer",
+        "album": "Tarkus",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 224,
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin IV",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 225,
+        "artist": "Serge Gainsbourg",
+        "album": "Histoire De Melody Nelson",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 226,
+        "artist": "Rod Stewart",
+        "album": "Every Picture Tells a Story",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 227,
+        "artist": "Emerson, Lake & Palmer",
+        "album": "Pictures at an Exhibition",
+        "year": "1972",
+        "cover": null
+    },
+    {
+        "id": 228,
+        "artist": "Leonard Cohen",
+        "album": "Songs of Love and Hate",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 229,
+        "artist": "Joni Mitchell",
+        "album": "Blue",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 230,
+        "artist": "Pearl",
+        "album": "Janis Joplin",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 231,
+        "artist": "Funkadelic",
+        "album": "Maggot Brain",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 232,
+        "artist": "Fela Ransome-Kuti & the Afrika 70 With Ginger Baker",
+        "album": "Live!",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 233,
+        "artist": "The Faces",
+        "album": "A Nod Is as Good as a Wink... to a Blind Horse",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 234,
+        "artist": "Flamin' Groovies",
+        "album": "Teenage Head",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 235,
+        "artist": "Gene Clark",
+        "album": "White Light",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 236,
+        "artist": "John Prine",
+        "album": "John Prine",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 237,
+        "artist": "Harry Nilsson",
+        "album": "Nilsson Schmilsson",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 238,
+        "artist": "T. Rex",
+        "album": "Electric Warrior",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 239,
+        "artist": "David Bowie",
+        "album": "Hunky Dory",
+        "year": "1971",
+        "cover": null
+    },
+    {
+        "id": 240,
+        "artist": "Randy Newman",
+        "album": "Sail Away",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/1ed76328-5282-4b4c-968b-5c3e0767c1f5.jpg"
+    },
+    {
+        "id": 241,
+        "artist": "Deep Purple",
+        "album": "Machine Head",
+        "year": "1972",
+        "cover": "https://www.listchallenges.com/f/items/5db06f46-d41a-4aa8-bd8e-0860a4be476f.jpg"
+    },
+    {
+        "id": 242,
+        "artist": "Big Star",
+        "album": "#1 Record",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/062c5370-3f37-4888-ba0d-00976e81bedf.jpg"
+    },
+    {
+        "id": 243,
+        "artist": "Black Sabbath",
+        "album": "Vol. 4",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/ac667a6f-9f8a-4e54-bbc7-3618271623c8.jpg"
+    },
+    {
+        "id": 244,
+        "artist": "Steely Dan",
+        "album": "Can't Buy a Thrill",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/c9009dbb-9b86-4de8-8806-12c2654b63aa.jpg"
+    },
+    {
+        "id": 245,
+        "artist": "Neil Young",
+        "album": "Harvest",
+        "year": "1972",
+        "cover": "https://www.listchallenges.com/f/items/17cb6d78-1975-4a94-a8e0-5f0b87121072.jpg"
+    },
+    {
+        "id": 246,
+        "artist": "Curtis Mayfield",
+        "album": "Superfly",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/a4725ac4-bc5e-4ca7-b661-13abd2336501.jpg"
+    },
+    {
+        "id": 247,
+        "artist": "Slade",
+        "album": "Slayed",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/4660fb12-0889-473c-ab72-87d6901f561e.jpg"
+    },
+    {
+        "id": 248,
+        "artist": "Deep Purple",
+        "album": "Made in Japan",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 249,
+        "artist": "Lou Reed",
+        "album": "Transformer",
+        "year": "1972",
+        "cover": null
+    },
+    {
+        "id": 250,
+        "artist": "Yes",
+        "album": "Close to the Edge",
+        "year": "1972",
+        "cover": null
+    },
+    {
+        "id": 251,
+        "artist": "Milton Nascimento E Lô Borges",
+        "album": "Clube Da Esquina",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 252,
+        "artist": "Hugh Masekela",
+        "album": "Home Is Where the Music Is",
+        "year": "1972",
+        "cover": null
+    },
+    {
+        "id": 253,
+        "artist": "Todd Rundgren",
+        "album": "Something/Anything?",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 254,
+        "artist": "Nitty Gritty Dirt Band",
+        "album": "Will the Circle Be Unbroken",
+        "year": "1972",
+        "cover": null
+    },
+    {
+        "id": 255,
+        "artist": "Stevie Wonder",
+        "album": "Talking Book",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 256,
+        "artist": "Manassas",
+        "album": "Manassas",
+        "year": "1972",
+        "cover": null
+    },
+    {
+        "id": 257,
+        "artist": "T. Rex",
+        "album": "The Slider",
+        "year": "1972",
+        "cover": null
+    },
+    {
+        "id": 258,
+        "artist": "David Ackles",
+        "album": "American Gothic",
+        "year": "1972",
+        "cover": null
+    },
+    {
+        "id": 259,
+        "artist": "Tim Buckley",
+        "album": "Greetings From LA",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 260,
+        "artist": "Nick Drake",
+        "album": "Pink Moon",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 261,
+        "artist": "Eagles",
+        "album": "Eagles",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 262,
+        "artist": "Paul Simon",
+        "album": "Paul Simon",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 263,
+        "artist": "Roxy Music",
+        "album": "Roxy Music",
+        "year": "1972",
+        "cover": null
+    },
+    {
+        "id": 264,
+        "artist": "Alice Cooper",
+        "album": "School's Out",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 265,
+        "artist": "The Temptations",
+        "album": "All Directions",
+        "year": "1972",
+        "cover": null
+    },
+    {
+        "id": 266,
+        "artist": "David Bowie",
+        "album": "The Rise and Fall of Ziggy Stardust & the Spiders From Mars",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 267,
+        "artist": "War",
+        "album": "The World Is a Ghetto",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 268,
+        "artist": "Al Green",
+        "album": "Let's Stay Together",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 269,
+        "artist": "The Rolling Stones",
+        "album": "Exile on Main Street",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 270,
+        "artist": "Lynyrd Skynyrd",
+        "album": "Lynyrd Skynyrd (Pronounced 'Lĕh-'Nérd 'Skin-'Nérd)",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 271,
+        "artist": "The Incredible Bongo Band",
+        "album": "Bongo Rock",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 272,
+        "artist": "David Bowie",
+        "album": "Aladdin Sane",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 273,
+        "artist": "King Crimson",
+        "album": "Larks' Tongues in Aspic",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 274,
+        "artist": "Bob Marley and the Wailers",
+        "album": "Catch a Fire",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 275,
+        "artist": "Hawkwind",
+        "album": "Space Ritual",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 276,
+        "artist": "John Cale",
+        "album": "Paris ",
+        "year": "1919",
+        "cover": null
+    },
+    {
+        "id": 277,
+        "artist": "CAN",
+        "album": "Future Days",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 278,
+        "artist": "Lou Reed",
+        "album": "Berlin",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 279,
+        "artist": "Genesis",
+        "album": "Selling England by the Pound",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 280,
+        "artist": "Marvin Gaye",
+        "album": "Let's Get It On",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/491133b2-5ff7-48f5-8835-a9132e107197.jpg"
+    },
+    {
+        "id": 281,
+        "artist": "John Martyn",
+        "album": "Solid Air",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/164b99c6-1f5f-40df-8821-e70c32420aa0.jpg"
+    },
+    {
+        "id": 282,
+        "artist": "Roxy Music",
+        "album": "For Your Pleasure",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/e0cddf50-5075-4f49-93ed-bd154d703343.jpg"
+    },
+    {
+        "id": 283,
+        "artist": "Faust",
+        "album": "Faust IV",
+        "year": "1973",
+        "cover": "https://www.listchallenges.com/f/items/7546c4f9-d9a5-4b08-9899-e0a68363a4bc.jpg"
+    },
+    {
+        "id": 284,
+        "artist": "Herbie Hancock",
+        "album": "Headhunters",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/98db9da2-0a59-47c3-9820-a81742a9ab21.jpg"
+    },
+    {
+        "id": 285,
+        "artist": "Mott the Hoople",
+        "album": "Mott",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/2e7bc22b-7717-4326-9cb9-176d00a58b64.jpg"
+    },
+    {
+        "id": 286,
+        "artist": "Mike Oldfield",
+        "album": "Tubular Bells",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/769f9349-d531-4b0d-9ce3-713c9be7ffb1.jpg"
+    },
+    {
+        "id": 287,
+        "artist": "Todd Rundgren",
+        "album": "A Wizard / a True Star",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/5acf4556-9d98-4c66-a031-10cd0cbea589.jpg"
+    },
+    {
+        "id": 288,
+        "artist": "Elton John",
+        "album": "Goodbye Yellow Brick Road",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 289,
+        "artist": "Steely Dan",
+        "album": "Countdown to Ecstasy",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 290,
+        "artist": "Waylon Jennings",
+        "album": "Honky Tonk Heroes",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 291,
+        "artist": "Pink Floyd",
+        "album": "The Dark Side of the Moon",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 292,
+        "artist": "Stevie Wonder",
+        "album": "Innervisions",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 293,
+        "artist": "ZZ Top",
+        "album": "Tres Hombres",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 294,
+        "artist": "Paul McCartney and Wings",
+        "album": "Band on the Run",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 295,
+        "artist": "The Sensational Alex Harvey Band",
+        "album": "Next",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 296,
+        "artist": "Alice Cooper",
+        "album": "Billion Dollar Babies",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 297,
+        "artist": "Iggy and the Stooges",
+        "album": "Raw Power",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 298,
+        "artist": "Isley Brothers",
+        "album": "3+3",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 299,
+        "artist": "New York Dolls",
+        "album": "New York Dolls",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 300,
+        "artist": "Bad Company",
+        "album": "Bad Company",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 301,
+        "artist": "Brian Eno",
+        "album": "Here Come the Warm Jets",
+        "year": "1973",
+        "cover": null
+    },
+    {
+        "id": 302,
+        "artist": "Genesis",
+        "album": "The Lamb Lies Down on Broadway",
+        "year": "1974",
+        "cover": null
+    },
+    {
+        "id": 303,
+        "artist": "Shuggie Otis",
+        "album": "Inspiration Information",
+        "year": "1974",
+        "cover": null
+    },
+    {
+        "id": 304,
+        "artist": "Stevie Wonder",
+        "album": "Fulfillingness First Finale",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 305,
+        "artist": "Eric Clapton",
+        "album": "461 Ocean Boulevard",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 306,
+        "artist": "Kraftwerk",
+        "album": "Autobahn",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 307,
+        "artist": "Van Morrison",
+        "album": "It's Too Late to Stop Now",
+        "year": "1974",
+        "cover": null
+    },
+    {
+        "id": 308,
+        "artist": "Joni Mitchell",
+        "album": "Court and Spark",
+        "year": "1974",
+        "cover": null
+    },
+    {
+        "id": 309,
+        "artist": "Queen",
+        "album": "Queen II",
+        "year": "1974",
+        "cover": null
+    },
+    {
+        "id": 310,
+        "artist": "Roxy Music",
+        "album": "Country Life",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 311,
+        "artist": "Tangerine Dream",
+        "album": "Phaedra",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 312,
+        "artist": "Sparks",
+        "album": "Kimono My House",
+        "year": "1974",
+        "cover": null
+    },
+    {
+        "id": 313,
+        "artist": "Supertramp",
+        "album": "Crime of the Century",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 314,
+        "artist": "Richard and Linda Thompson",
+        "album": "I Want to See the Bright Lights Tonight",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 315,
+        "artist": "Gil Scott-Heron",
+        "album": "Winter in America",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 316,
+        "artist": "Queen",
+        "album": "Sheer Heart Attack",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 317,
+        "artist": "10cc",
+        "album": "Sheet Music",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 318,
+        "artist": "Neil Young",
+        "album": "On the Beach",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 319,
+        "artist": "George Jones",
+        "album": "The Grand Tour",
+        "year": "1974",
+        "cover": null
+    },
+    {
+        "id": 320,
+        "artist": "Gene Clark",
+        "album": "No Other",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/0982ec3c-4af9-42a6-a0de-b6a113f7d93b.jpg"
+    },
+    {
+        "id": 321,
+        "artist": "Steely Dan",
+        "album": "Pretzel Logic",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/fc58684c-3ad9-4e11-a476-a6e57d5d984b.jpg"
+    },
+    {
+        "id": 322,
+        "artist": "Randy Newman",
+        "album": "Good Old Boys",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/db43fb10-9a60-4242-927a-0d813e75d111.jpg"
+    },
+    {
+        "id": 323,
+        "artist": "Bob Marley and the Wailers",
+        "album": "Natty Dread",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/6230e100-adb1-49f9-a9e6-9fa5b70ff7ad.jpg"
+    },
+    {
+        "id": 324,
+        "artist": "Robert Wyatt",
+        "album": "Rock Bottom",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/c0227d08-1655-4b82-9812-87512b691810.jpg"
+    },
+    {
+        "id": 325,
+        "artist": "Gram Parsons",
+        "album": "Grievous Angel",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/ff2cb1e1-1e5d-4d4a-87e5-7f9a31a5f7ef.jpg"
+    },
+    {
+        "id": 326,
+        "artist": "The Dictators",
+        "album": "Go Girl Crazy!",
+        "year": "1975",
+        "cover": "https://www.listchallenges.com/f/items/ed6ea787-2cb1-48c1-be93-597cf2558b64.jpg"
+    },
+    {
+        "id": 327,
+        "artist": "Brian Eno",
+        "album": "Another Green World",
+        "year": "1975",
+        "cover": "https://www.listchallenges.com/f/items/b29092ff-cf06-45b4-94da-18ae3c976c7e.jpg"
+    },
+    {
+        "id": 328,
+        "artist": "NEU!",
+        "album": "Neu! '75",
+        "year": "1975",
+        "cover": null
+    },
+    {
+        "id": 329,
+        "artist": "Led Zeppelin",
+        "album": "Physical Graffiti",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 330,
+        "artist": "Keith Jarrett",
+        "album": "The Köln Concert",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 331,
+        "artist": "Aerosmith",
+        "album": "Toys in the Attic",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 332,
+        "artist": "David Bowie",
+        "album": "Young Americans",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 333,
+        "artist": "Burning Spear",
+        "album": "Marcus Garvey",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 334,
+        "artist": "Bruce Springsteen",
+        "album": "Born to Run",
+        "year": "1975",
+        "cover": null
+    },
+    {
+        "id": 335,
+        "artist": "Emmylou Harris",
+        "album": "Pieces of the Sky",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 336,
+        "artist": "Dion",
+        "album": "Born to Be With You",
+        "year": "1975",
+        "cover": null
+    },
+    {
+        "id": 337,
+        "artist": "Joni Mitchell",
+        "album": "The Hissing of Summer Lawns",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 338,
+        "artist": "Tom Waits",
+        "album": "Nighthawks at the Diner",
+        "year": "1975",
+        "cover": null
+    },
+    {
+        "id": 339,
+        "artist": "Rahul Dev Burman",
+        "album": "Shalimar",
+        "year": "1978",
+        "cover": null
+    },
+    {
+        "id": 340,
+        "artist": "Neil Young",
+        "album": "Tonight's the Night",
+        "year": "1975",
+        "cover": null
+    },
+    {
+        "id": 341,
+        "artist": "Bob Dylan",
+        "album": "Blood on the Tracks",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 342,
+        "artist": "Pink Floyd",
+        "album": "Wish You Were Here",
+        "year": "1975",
+        "cover": null
+    },
+    {
+        "id": 343,
+        "artist": "Patti Smith",
+        "album": "Horses",
+        "year": "1975",
+        "cover": null
+    },
+    {
+        "id": 344,
+        "artist": "Queen",
+        "album": "A Night at the Opera",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 345,
+        "artist": "Willie Nelson",
+        "album": "Red Headed Stranger",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 346,
+        "artist": "Earth, Wind & Fire",
+        "album": "That's the Way of the World",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 347,
+        "artist": "Curtis Mayfield",
+        "album": "There's No Place Like America Today",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 348,
+        "artist": "Tom Petty and the Heartbreakers",
+        "album": "Tom Petty and the Heartbreakers",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 349,
+        "artist": "The Modern Lovers",
+        "album": "The Modern Lovers",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 350,
+        "artist": "David Bowie",
+        "album": "Station to Station",
+        "year": "1976",
+        "cover": null
+    },
+    {
+        "id": 351,
+        "artist": "Joni Mitchell",
+        "album": "Hejira",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 352,
+        "artist": "Boston",
+        "album": "Boston",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 353,
+        "artist": "Eagles",
+        "album": "Hotel California",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 354,
+        "artist": "ABBA",
+        "album": "Arrival",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 355,
+        "artist": "Kiss",
+        "album": "Destroyer",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 356,
+        "artist": "Rush",
+        "album": "2112",
+        "year": "1976",
+        "cover": null
+    },
+    {
+        "id": 357,
+        "artist": "Jorge Ben Jor",
+        "album": "África Brasil",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 358,
+        "artist": "Joan Armatrading",
+        "album": "Joan Armatrading",
+        "year": "1976",
+        "cover": null
+    },
+    {
+        "id": 359,
+        "artist": "Aerosmith",
+        "album": "Rocks",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 360,
+        "artist": "Parliament",
+        "album": "Mothership Connection",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/d61967f7-df9c-4f32-8e57-c5213788fdd5.jpg"
+    },
+    {
+        "id": 361,
+        "artist": "Penguin Cafe Orchestra",
+        "album": "Music From the Penguin Café",
+        "year": "1976",
+        "cover": "https://www.listchallenges.com/f/items/7b3b5ca3-b6a3-43a3-a0fd-3cb41e7972b2.jpg"
+    },
+    {
+        "id": 362,
+        "artist": "Jean-Michelle Jarre",
+        "album": "Oxygene",
+        "year": "1976",
+        "cover": "https://www.listchallenges.com/f/items/496488fd-ecb0-441e-995a-0db759145ffd.jpg"
+    },
+    {
+        "id": 363,
+        "artist": "Ramones",
+        "album": "Ramones",
+        "year": "1976",
+        "cover": "https://www.listchallenges.com/f/items/963c8275-02ce-4159-8c32-810478952471.jpg"
+    },
+    {
+        "id": 364,
+        "artist": "Peter Tosh",
+        "album": "Legalize It",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/79d75ff9-e340-47d3-8f5e-e9518383418c.jpg"
+    },
+    {
+        "id": 365,
+        "artist": "Fela Kuti & Afrika 70",
+        "album": "Zombie",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/59df6775-f99a-486d-9c6d-5722ab63f773.jpg"
+    },
+    {
+        "id": 366,
+        "artist": "Stevie Wonder",
+        "album": "Songs in the Key of Life",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/c41d168c-0373-498a-8a7e-15a1e3a60de6.jpg"
+    },
+    {
+        "id": 367,
+        "artist": "Peter Frampton",
+        "album": "Frampton Comes Alive!",
+        "year": "1976",
+        "cover": "https://www.listchallenges.com/f/items/e38cd905-a108-43ad-bca8-2b786e59d660.jpg"
+    },
+    {
+        "id": 368,
+        "artist": "Brian Eno",
+        "album": "Before and After Science",
+        "year": "1977",
+        "cover": null
+    },
+    {
+        "id": 369,
+        "artist": "Kraftwerk",
+        "album": "Trans-Europe Express",
+        "year": "1977",
+        "cover": null
+    },
+    {
+        "id": 370,
+        "artist": "Billy Joel",
+        "album": "The Stranger",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 371,
+        "artist": "Bob Marley and the Wailers",
+        "album": "Exodus",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 372,
+        "artist": "Electric Light Orchestra",
+        "album": "Out of the Blue",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 373,
+        "artist": "Weather Report",
+        "album": "Heavy Weather",
+        "year": "1977",
+        "cover": null
+    },
+    {
+        "id": 374,
+        "artist": "Muddy Waters",
+        "album": "Hard Again",
+        "year": "1977",
+        "cover": null
+    },
+    {
+        "id": 375,
+        "artist": "The Stranglers",
+        "album": "Rattus Norvegicus",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 376,
+        "artist": "The Clash",
+        "album": "The Clash",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 377,
+        "artist": "David Bowie",
+        "album": "Low",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 378,
+        "artist": "Steely Dan",
+        "album": "Aja",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 379,
+        "artist": "Wire",
+        "album": "Pink Flag",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 380,
+        "artist": "John Martyn",
+        "album": "One World",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 381,
+        "artist": "Talking Heads",
+        "album": "Talking Heads: 77",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 382,
+        "artist": "Fleetwood Mac",
+        "album": "Rumours",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 383,
+        "artist": "David Bowie",
+        "album": "Heroes",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 384,
+        "artist": "Dennis Wilson",
+        "album": "Pacific Ocean Blue",
+        "year": "1977",
+        "cover": null
+    },
+    {
+        "id": 385,
+        "artist": "Suicide",
+        "album": "Suicide",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 386,
+        "artist": "Iggy Pop",
+        "album": "The Idiot",
+        "year": "1977",
+        "cover": null
+    },
+    {
+        "id": 387,
+        "artist": "Peter Gabriel",
+        "album": "Peter Gabriel",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 388,
+        "artist": "Meat Loaf",
+        "album": "Bat Out of Hell",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 389,
+        "artist": "Television",
+        "album": "Marquee Moon",
+        "year": "1977",
+        "cover": null
+    },
+    {
+        "id": 390,
+        "artist": "Elvis Costello",
+        "album": "My Aim Is True",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 391,
+        "artist": "Iggy Pop",
+        "album": "Lust for Life",
+        "year": "1977",
+        "cover": null
+    },
+    {
+        "id": 392,
+        "artist": "Ian Dury",
+        "album": "New Boots and Panties!!",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 393,
+        "artist": "Sex Pistols",
+        "album": "Never Mind the Bollocks Here's the Sex Pistols",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 394,
+        "artist": "Pere Ubu",
+        "album": "The Modern Dance",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 395,
+        "artist": "Kraftwerk",
+        "album": "The Man-Machine",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 396,
+        "artist": "Blondie",
+        "album": "Parallel Lines",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 397,
+        "artist": "Elis Regina",
+        "album": "Vento De Maio",
+        "year": "1985",
+        "cover": null
+    },
+    {
+        "id": 398,
+        "artist": "Pere Ubu",
+        "album": "Dub Housing",
+        "year": "1978",
+        "cover": null
+    },
+    {
+        "id": 399,
+        "artist": "The Only Ones",
+        "album": "The Only Ones",
+        "year": "1978",
+        "cover": null
+    },
+    {
+        "id": 400,
+        "artist": "Elvis Costello",
+        "album": "This Year's Model",
+        "year": "1978",
+        "cover": "https://www.listchallenges.com/f/items/31532865-98e2-496c-8bef-d105a147d0a3.jpg"
+    },
+    {
+        "id": 401,
+        "artist": "The Jam",
+        "album": "All Mod Cons",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/ae0fac9c-6b91-4f21-be86-f0dc49eee972.jpg"
+    },
+    {
+        "id": 402,
+        "artist": "Joe Ely",
+        "album": "Honky Tonk Masquerade",
+        "year": "1978",
+        "cover": "https://www.listchallenges.com/f/items/b1ab3c5f-f7ec-448b-aa2c-151952414bf3.jpg"
+    },
+    {
+        "id": 403,
+        "artist": "The Adverts",
+        "album": "Crossing the Red Sea With the Adverts",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/4aff3447-bdae-4cda-8427-a5f1895d88d3.jpg"
+    },
+    {
+        "id": 404,
+        "artist": "Big Star",
+        "album": "Third / Sister Lovers",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/c0418aa0-eaad-4fd6-9859-55b17b3ff2f4.jpg"
+    },
+    {
+        "id": 405,
+        "artist": "The Residents",
+        "album": "Duck Stab/Buster & Glen",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/bffdb7ae-2195-4ae5-b998-4fb1fc442e44.jpg"
+    },
+    {
+        "id": 406,
+        "artist": "Public Image Limited",
+        "album": "Public Image Limited",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/4cd3ab44-c8b6-4067-81c9-c414b88486eb.jpg"
+    },
+    {
+        "id": 407,
+        "artist": "Magazine",
+        "album": "Real Life",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/a200c37a-4240-4d6b-9a2f-f8c81fc6a889.jpg"
+    },
+    {
+        "id": 408,
+        "artist": "Bruce Springsteen",
+        "album": "Darkness on the Edge of Town",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 409,
+        "artist": "Funkadelic",
+        "album": "One Nation Under a Groove",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 410,
+        "artist": "Throbbing Gristle",
+        "album": "D.O.A. Third and Final Report",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 411,
+        "artist": "Thin Lizzy",
+        "album": "Live and Dangerous",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 412,
+        "artist": "Talking Heads",
+        "album": "More Songs About Buildings and Food",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 413,
+        "artist": "Buzzcocks",
+        "album": "Another Music in a Different Kitchen",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 414,
+        "artist": "Van Halen",
+        "album": "Van Halen",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 415,
+        "artist": "Willie Colón & Rubén Blades",
+        "album": "Siembra",
+        "year": "1978",
+        "cover": null
+    },
+    {
+        "id": 416,
+        "artist": "The Cars",
+        "album": "The Cars",
+        "year": "1979",
+        "cover": null
+    },
+    {
+        "id": 417,
+        "artist": "Devo",
+        "album": "Q: Are We Not Men? A: We Are Devo!",
+        "year": "1978",
+        "cover": null
+    },
+    {
+        "id": 418,
+        "artist": "Dire Straits",
+        "album": "Dire Straits",
+        "year": "1978",
+        "cover": null
+    },
+    {
+        "id": 419,
+        "artist": "The Saints",
+        "album": "Eternally Yours",
+        "year": "1978",
+        "cover": null
+    },
+    {
+        "id": 420,
+        "artist": "Marvin Gaye",
+        "album": " Here, My Dear",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 421,
+        "artist": "Willie Nelson",
+        "album": "Stardust",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 422,
+        "artist": "Chic",
+        "album": "C'est Chic",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 423,
+        "artist": "X-Ray Spex",
+        "album": "Germ-Free Adolescents",
+        "year": "1978",
+        "cover": null
+    },
+    {
+        "id": 424,
+        "artist": "Brian Eno",
+        "album": "Ambient 1: Music for Airports",
+        "year": "1978",
+        "cover": null
+    },
+    {
+        "id": 425,
+        "artist": "Siouxsie & the Banshees",
+        "album": "The Scream",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 426,
+        "artist": "AC/DC",
+        "album": "Highway to Hell",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 427,
+        "artist": "Sister Sledge",
+        "album": "We Are Family",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 428,
+        "artist": "The Crusaders",
+        "album": "Street Life",
+        "year": "1979",
+        "cover": null
+    },
+    {
+        "id": 429,
+        "artist": "Germs",
+        "album": "GI",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 430,
+        "artist": "The B-52'S",
+        "album": "The B-52'S",
+        "year": "1979",
+        "cover": null
+    },
+    {
+        "id": 431,
+        "artist": "Holger Czukay",
+        "album": "Movies",
+        "year": "1979",
+        "cover": null
+    },
+    {
+        "id": 432,
+        "artist": "The Fall",
+        "album": "Live at the Witch Trials",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 433,
+        "artist": "The Police",
+        "album": "Reggatta De Blanc",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 434,
+        "artist": "Talking Heads",
+        "album": "Fear of Music",
+        "year": "1979",
+        "cover": null
+    },
+    {
+        "id": 435,
+        "artist": "Joy Division",
+        "album": "Unknown Pleasures",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 436,
+        "artist": "Chic",
+        "album": "Risque",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 437,
+        "artist": "Undertones",
+        "album": "The Undertones",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 438,
+        "artist": "The Clash",
+        "album": "London Calling",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 439,
+        "artist": "Japan",
+        "album": "Quiet Life",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 440,
+        "artist": "Marianne Faithfull",
+        "album": "Broken English",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/3eef8df6-4c83-422d-a781-bbcc269b41f0.jpg"
+    },
+    {
+        "id": 441,
+        "artist": "The Slits",
+        "album": "Cut",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/22a3f814-3fda-4eb3-8cf6-fe196107adc5.jpg"
+    },
+    {
+        "id": 442,
+        "artist": "Elvis Costello and the Attractions",
+        "album": "Armed Forces",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/b456b244-0153-4667-9c8b-dc872a0779b8.jpg"
+    },
+    {
+        "id": 443,
+        "artist": "Neil Young and Crazy Horse",
+        "album": "Rust Never Sleeps",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/bc43045b-faed-44be-b7fc-d0bdeb50ba8e.jpg"
+    },
+    {
+        "id": 444,
+        "artist": "Gang of Four",
+        "album": "Entertainment!",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/8a4146d6-a869-4f5e-aea9-89768f0b7488.jpg"
+    },
+    {
+        "id": 445,
+        "artist": "Cheap Trick",
+        "album": "At Budokan",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/5391c5d8-62be-4234-a6e2-f9d3efb741d4.jpg"
+    },
+    {
+        "id": 446,
+        "artist": "Fleetwood Mac",
+        "album": "Tusk",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/07411098-55fc-4eb2-9343-5e09bce8fa3e.jpg"
+    },
+    {
+        "id": 447,
+        "artist": "Pink Floyd",
+        "album": "The Wall",
+        "year": "1979",
+        "cover": "https://www.listchallenges.com/f/items/0d0087b0-1b7c-4300-afad-78bcb4ac248e.jpg"
+    },
+    {
+        "id": 448,
+        "artist": "Public Image, Ltd.",
+        "album": "Metal Box",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 449,
+        "artist": "The Damned",
+        "album": "Machine Gun Etiquette",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 450,
+        "artist": "Michael Jackson",
+        "album": "Off the Wall",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 451,
+        "artist": "Gary Numan",
+        "album": "The Pleasure Principle",
+        "year": "1979",
+        "cover": null
+    },
+    {
+        "id": 452,
+        "artist": "The Specials",
+        "album": "The Specials",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 453,
+        "artist": "Adam and the Ants",
+        "album": "Kings of the Wild Frontier",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 454,
+        "artist": "Dexy's Midnight Runners",
+        "album": "Searching for the Young Soul Rebels",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 455,
+        "artist": "AC/DC",
+        "album": "Back in Black",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 456,
+        "artist": "The Cramps",
+        "album": "The Songs the Lord Taught Us",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 457,
+        "artist": "The Dead Kennedys",
+        "album": "Fresh Fruit for Rotting Vegetables",
+        "year": "1980",
+        "cover": null
+    },
+    {
+        "id": 458,
+        "artist": "Peter Gabriel",
+        "album": "Peter Gabriel",
+        "year": "1980",
+        "cover": null
+    },
+    {
+        "id": 459,
+        "artist": "The Soft Boys",
+        "album": "Underwater Moonlight",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 460,
+        "artist": "The Cure",
+        "album": "Seventeen Seconds",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 461,
+        "artist": "Echo & the Bunnymen",
+        "album": "Crocodiles",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 462,
+        "artist": "Motörhead",
+        "album": "Ace of Spades",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 463,
+        "artist": "Killing Joke",
+        "album": "Killing Joke",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 464,
+        "artist": "Judas Priest",
+        "album": "British Steel",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 465,
+        "artist": "Circle Jerks",
+        "album": "Group Sex",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 466,
+        "artist": "Joy Division",
+        "album": "Closer",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 467,
+        "artist": "Talking Heads",
+        "album": "Remain in Light",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 468,
+        "artist": "Iron Maiden",
+        "album": "Iron Maiden",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 469,
+        "artist": "The Undertones",
+        "album": "Hypnotised",
+        "year": "1980",
+        "cover": null
+    },
+    {
+        "id": 470,
+        "artist": "The Jam",
+        "album": "Sound Affects",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 471,
+        "artist": "Tom Waits",
+        "album": "Heartattack and Vine",
+        "year": "1980",
+        "cover": null
+    },
+    {
+        "id": 472,
+        "artist": "UB40",
+        "album": "Signing Off",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 473,
+        "artist": "The Teardrop Explodes",
+        "album": "Kilimanjaro",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 474,
+        "artist": "The Specials",
+        "album": "More Specials",
+        "year": "1980",
+        "cover": null
+    },
+    {
+        "id": 475,
+        "artist": "Steve Winwood",
+        "album": "Arc of a Driver",
+        "year": "1980",
+        "cover": null
+    },
+    {
+        "id": 476,
+        "artist": "Pretenders",
+        "album": "Pretenders",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 477,
+        "artist": "Einstürzende Neubauten",
+        "album": "Kollaps",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 478,
+        "artist": "Siouxsie and the Banshees",
+        "album": "Juju",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 479,
+        "artist": "Heaven 17",
+        "album": "Penthouse and Pavement",
+        "year": "1981",
+        "cover": null
+    },
+    {
+        "id": 480,
+        "artist": "Beauty and the Beat",
+        "album": "The Go Go's",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/79786909-d32e-48cc-9a72-806938d2ffa3.jpg"
+    },
+    {
+        "id": 481,
+        "artist": "Motorhead",
+        "album": "No Sleep 'Til Hammersmith",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/7325f79a-b3b8-48e0-b83c-ea548e20f217.jpg"
+    },
+    {
+        "id": 482,
+        "artist": "Soft Cell",
+        "album": "Non-Stop Erotic Cabaret",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/728eba9e-d660-4b04-882d-dd8858f024fd.jpg"
+    },
+    {
+        "id": 483,
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "album": "Architecture & Morality",
+        "year": "1981",
+        "cover": "https://www.listchallenges.com/f/items/9a077f0d-9243-4220-9c00-b311cd24b863.jpg"
+    },
+    {
+        "id": 484,
+        "artist": "David Byrne & Brian Eno",
+        "album": "My Life in the Bush of Ghosts",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/5f6ea1f6-7e80-4727-9548-604e6deacea4.jpg"
+    },
+    {
+        "id": 485,
+        "artist": "Black Flag",
+        "album": "Damaged",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/b2728e8b-c96a-4aa5-a7e3-cbbb9709ce47.jpg"
+    },
+    {
+        "id": 486,
+        "artist": "X",
+        "album": "Wild Gift",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/667a47bd-f4e2-4846-8ab9-a2984cb88be8.jpg"
+    },
+    {
+        "id": 487,
+        "artist": "The Psychedelic Furs",
+        "album": "Talk Talk Talk",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/75724988-d476-4c88-8a2b-084d647f993e.jpg"
+    },
+    {
+        "id": 488,
+        "artist": "The Human League",
+        "album": "Dare",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 489,
+        "artist": "Gun Club",
+        "album": "Fire of Love",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 490,
+        "artist": "Bauhaus",
+        "album": "Mask",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 491,
+        "artist": "Bobby Womack",
+        "album": "The Poet",
+        "year": "1981",
+        "cover": null
+    },
+    {
+        "id": 492,
+        "artist": "Tom Tom Club",
+        "album": "Tom Tom Club",
+        "year": "1981",
+        "cover": null
+    },
+    {
+        "id": 493,
+        "artist": "Rush",
+        "album": "Moving Pictures",
+        "year": "1981",
+        "cover": null
+    },
+    {
+        "id": 494,
+        "artist": "ABBA",
+        "album": "The Visitors",
+        "year": "1981",
+        "cover": null
+    },
+    {
+        "id": 495,
+        "artist": "ABC",
+        "album": "The Lexicon of Love",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 496,
+        "artist": "Prince",
+        "album": "1999",
+        "year": "1982",
+        "cover": null
+    },
+    {
+        "id": 497,
+        "artist": "Elvis Costello & the Attractions",
+        "album": "Imperial Bedroom",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 498,
+        "artist": "Grandmaster Flash",
+        "album": "The Message",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 499,
+        "artist": "The Cure",
+        "album": "Pornography",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 500,
+        "artist": "Dexys Midnight Runners",
+        "album": "Too-Rye-Ay",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 501,
+        "artist": "Simple Minds",
+        "album": "New Gold Dream",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 502,
+        "artist": "Madness",
+        "album": "The Rise & Fall",
+        "year": "1982",
+        "cover": null
+    },
+    {
+        "id": 503,
+        "artist": "Donald Fagen",
+        "album": "The Nightfly",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 504,
+        "artist": "Haircut One Hundred",
+        "album": "Pelican West",
+        "year": "1982",
+        "cover": null
+    },
+    {
+        "id": 505,
+        "artist": "Kate Bush",
+        "album": "The Dreaming",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 506,
+        "artist": "Orange Juice",
+        "album": "Rip It Up",
+        "year": "1982",
+        "cover": null
+    },
+    {
+        "id": 507,
+        "artist": "Michael Jackson",
+        "album": "Thriller",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 508,
+        "artist": "The Birthday Party",
+        "album": "Junkyard",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 509,
+        "artist": "Venom",
+        "album": "Black Metal",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 510,
+        "artist": "Bruce Springsteen",
+        "album": "Nebraska",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 511,
+        "artist": "Associates",
+        "album": "Sulk",
+        "year": "1982",
+        "cover": null
+    },
+    {
+        "id": 512,
+        "artist": "Iron Maiden",
+        "album": "The Number of the Beast",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 513,
+        "artist": "Duran Duran",
+        "album": "Rio",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 514,
+        "artist": "Violent Femmes",
+        "album": "Violent Femmes",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 515,
+        "artist": "Malcolm Mclaren",
+        "album": "Duck Rock",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 516,
+        "artist": "Def Leppard",
+        "album": "Pyromania",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 517,
+        "artist": "R.E.M.",
+        "album": "Murmur",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 518,
+        "artist": "The The",
+        "album": "Soul Mining",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 519,
+        "artist": "Tom Waits",
+        "album": "Swordfishtrombones",
+        "year": "1983",
+        "cover": null
+    },
+    {
+        "id": 520,
+        "artist": "The Blue Nile",
+        "album": "A Walk Across the Rooftops",
+        "year": "1984",
+        "cover": "https://www.listchallenges.com/f/items/e81a1301-ddb7-448a-b425-cef8c221179b.jpg"
+    },
+    {
+        "id": 521,
+        "artist": "Hanoi Rocks",
+        "album": "Back to Mystery City",
+        "year": "1983",
+        "cover": "https://www.listchallenges.com/f/items/8cb52fe8-4428-491e-b2f4-e68e4c83e51e.jpg"
+    },
+    {
+        "id": 522,
+        "artist": "Cyndi Lauper",
+        "album": "She's So Unusual",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/2e1fcba7-175a-4dc3-805f-0abeada5a473.jpg"
+    },
+    {
+        "id": 523,
+        "artist": "Paul Simon",
+        "album": "Hearts and Bones",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/128b58a1-95a7-48de-b726-c190dad29923.jpg"
+    },
+    {
+        "id": 524,
+        "artist": "Echo and the Bunnymen",
+        "album": "Porcupine",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/f632f2d2-5c7d-408f-82d6-ac60ce74017b.jpg"
+    },
+    {
+        "id": 525,
+        "artist": "ZZ Top",
+        "album": "Eliminator",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/b54292a0-438f-46ee-b5de-ae8e22cfa836.jpg"
+    },
+    {
+        "id": 526,
+        "artist": "Eurythmics",
+        "album": "Sweet Dreams (Are Made of This)",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/fb55eb73-545b-4e26-adac-7278ba6ae77c.jpg"
+    },
+    {
+        "id": 527,
+        "artist": "U2",
+        "album": "War",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/296124fa-ac04-47d8-a33e-9688e5bfce82.jpg"
+    },
+    {
+        "id": 528,
+        "artist": "The Police",
+        "album": "Synchronicity",
+        "year": "1983",
+        "cover": null
+    },
+    {
+        "id": 529,
+        "artist": "Meat Puppets",
+        "album": "Meat Puppets II",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 530,
+        "artist": "Culture Club",
+        "album": "Colour by Numbers",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 531,
+        "artist": "Frankie Goes to Hollywood",
+        "album": "Welcome to the Pleasuredome",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 532,
+        "artist": "Run DMC",
+        "album": "Run DMC",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 533,
+        "artist": "Sade",
+        "album": "Diamond Life",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 534,
+        "artist": "Cocteau Twins",
+        "album": "Treasure",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 535,
+        "artist": "Minor Threat",
+        "album": "Out of Step",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 536,
+        "artist": "Van Halen",
+        "album": "1984",
+        "year": "1984",
+        "cover": null
+    },
+    {
+        "id": 537,
+        "artist": "Prince",
+        "album": "Purple Rain",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 538,
+        "artist": "The Replacements",
+        "album": "Let It Be",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 539,
+        "artist": "The Style Council",
+        "album": "Café Bleu",
+        "year": "1984",
+        "cover": null
+    },
+    {
+        "id": 540,
+        "artist": "Tina Turner",
+        "album": "Private Dancer",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 541,
+        "artist": "Echo and the Bunnymen",
+        "album": "Ocean Rain",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 542,
+        "artist": "Minutemen",
+        "album": "Double Nickels on the Dime",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 543,
+        "artist": "Llyod Cole and the Commotions",
+        "album": "Rattlesnakes",
+        "year": "1984",
+        "cover": null
+    },
+    {
+        "id": 544,
+        "artist": "Youssou N'dour",
+        "album": "Immigres",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 545,
+        "artist": "Bruce Springsteen",
+        "album": "Born in the U.S.A.",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 546,
+        "artist": "The Fall",
+        "album": "This Nation's Saving Grace",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 547,
+        "artist": "Abdullah Ibrahim",
+        "album": "Water From an Ancient Well",
+        "year": "1985",
+        "cover": null
+    },
+    {
+        "id": 548,
+        "artist": "A-Ha",
+        "album": "Hunting High and Low",
+        "year": "1985",
+        "cover": null
+    },
+    {
+        "id": 549,
+        "artist": "Tears for Fears",
+        "album": "Songs From the Big Chair",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 550,
+        "artist": "Dire Straits",
+        "album": "Brothers in Arms",
+        "year": "1985",
+        "cover": null
+    },
+    {
+        "id": 551,
+        "artist": "Prefab Sprout",
+        "album": "Steve Mcqueen",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 552,
+        "artist": "The Mekons",
+        "album": "Fear and Whiskey",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 553,
+        "artist": "Big Black",
+        "album": "Atomizer",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 554,
+        "artist": "Suzanne Vega",
+        "album": "Suzanne Vega",
+        "year": "1985",
+        "cover": null
+    },
+    {
+        "id": 555,
+        "artist": "The Pogues",
+        "album": "Rum Sodomy and the Lash",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 556,
+        "artist": "Kate Bush",
+        "album": "Hounds of Love",
+        "year": "1985",
+        "cover": null
+    },
+    {
+        "id": 557,
+        "artist": "The Smiths",
+        "album": "Meat Is Murder",
+        "year": "1985",
+        "cover": null
+    },
+    {
+        "id": 558,
+        "artist": "Tom Waits",
+        "album": "Rain Dogs",
+        "year": "1985",
+        "cover": null
+    },
+    {
+        "id": 559,
+        "artist": "The Jesus and Mary Chain",
+        "album": "Psychocandy",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 560,
+        "artist": "New Order",
+        "album": "Low-Life",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/ea309e7a-66a1-4000-a74c-e94b1b576fda.jpg"
+    },
+    {
+        "id": 561,
+        "artist": "Simply Red",
+        "album": "Picture Book",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/eaf908c5-2946-4a4f-880d-60e2a3d50c52.jpg"
+    },
+    {
+        "id": 562,
+        "artist": "Dexy's Midnight Runners",
+        "album": "Don't Stand Me Down",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/0860ce0f-a579-4778-a921-f8a0ec872384.jpg"
+    },
+    {
+        "id": 563,
+        "artist": "Scritti Politti",
+        "album": "Cupid & Psyche 85",
+        "year": "1985",
+        "cover": "https://www.listchallenges.com/f/items/540a5291-6c66-4f2b-bd8f-42fe8d9c217a.jpg"
+    },
+    {
+        "id": 564,
+        "artist": "Elvis Costello",
+        "album": "Blood & Chocolate",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/45cf882a-b124-4721-a6fc-0101a9aa153a.jpg"
+    },
+    {
+        "id": 565,
+        "artist": "Afrika Bambaataa and the Soul Sonic Force",
+        "album": "Planet Rock",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/6dd70ae2-a106-426f-b2aa-808b60e67746.jpg"
+    },
+    {
+        "id": 566,
+        "artist": "Beastie Boys",
+        "album": "Licensed to Ill",
+        "year": "1986",
+        "cover": "https://www.listchallenges.com/f/items/229c3b92-5d2f-4bdb-b189-4e8b859f9713.jpg"
+    },
+    {
+        "id": 567,
+        "artist": "Metallica",
+        "album": "Master of Puppets",
+        "year": "1986",
+        "cover": "https://www.listchallenges.com/f/items/f7388919-e9bc-4016-a53d-c0673f5459bc.jpg"
+    },
+    {
+        "id": 568,
+        "artist": "The The",
+        "album": "Infected",
+        "year": "1986",
+        "cover": null
+    },
+    {
+        "id": 569,
+        "artist": "Nanci Griffith",
+        "album": "The Last of the True Believers",
+        "year": "1986",
+        "cover": null
+    },
+    {
+        "id": 570,
+        "artist": "Billy Bragg",
+        "album": "Talking With the Taxman About Poetry",
+        "year": "1986",
+        "cover": null
+    },
+    {
+        "id": 571,
+        "artist": "Talk Talk",
+        "album": "The Colour of Spring",
+        "year": "1985",
+        "cover": null
+    },
+    {
+        "id": 572,
+        "artist": "Megadeth",
+        "album": "Peace Sells...but Who's Buying?",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 573,
+        "artist": "Bon Jovi",
+        "album": "Slippery When Wet",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 574,
+        "artist": "Sonic Youth",
+        "album": "EVOL",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 575,
+        "artist": "Slayer",
+        "album": "Reign in Blood",
+        "year": "1986",
+        "cover": null
+    },
+    {
+        "id": 576,
+        "artist": "Throwing Muses",
+        "album": "Throwing Muses",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 577,
+        "artist": "Paul Simon",
+        "album": "Graceland",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 578,
+        "artist": "Run DMC",
+        "album": "Raising Hell",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 579,
+        "artist": "XTC",
+        "album": "Skylarking",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 580,
+        "artist": "Steve Earle",
+        "album": "Guitar Town",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 581,
+        "artist": "Bad Brains",
+        "album": "I Against I",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 582,
+        "artist": "Anita Baker",
+        "album": "Rapture",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 583,
+        "artist": "The Smiths",
+        "album": "The Queen Is Dead",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 584,
+        "artist": "Peter Gabriel",
+        "album": "So",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 585,
+        "artist": "Anthrax",
+        "album": "Among the Living",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 586,
+        "artist": "Dinosaur Jr",
+        "album": "You're Living All Over Me",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 587,
+        "artist": "Dolly Parton, Emmylou Harris, Linda Ronstadt",
+        "album": "Trio",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 588,
+        "artist": "Def Leppard",
+        "album": "Hysteria",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 589,
+        "artist": "R.E.M.",
+        "album": "Document",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 590,
+        "artist": "Prince",
+        "album": "Sign 'O' the Times",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 591,
+        "artist": "The Cult",
+        "album": "Electric",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 592,
+        "artist": "Depeche Mode",
+        "album": "Music for the Masses",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 593,
+        "artist": "Sisters of Mercy",
+        "album": "Floodland",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 594,
+        "artist": "George Michael",
+        "album": "Faith",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 595,
+        "artist": "Hüsker Dü",
+        "album": "Warehouse: Songs and Stories",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 596,
+        "artist": "Butthole Surfers",
+        "album": "Locust Abortion Technician",
+        "year": "1987",
+        "cover": null
+    },
+    {
+        "id": 597,
+        "artist": "Astor Piazzolla & Gary Burton",
+        "album": "The New Tango",
+        "year": "1987",
+        "cover": null
+    },
+    {
+        "id": 598,
+        "artist": "The Smiths",
+        "album": "Strangeways, Here We Come",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 599,
+        "artist": "Guns N' Roses",
+        "album": "Appetite for Destruction",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 600,
+        "artist": "The Jesus and Mary Chains",
+        "album": "Darklands",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/0c0989c4-bc19-42c3-b421-5b73d6aaa78a.jpg"
+    },
+    {
+        "id": 601,
+        "artist": "Ladysmith Black Mambazo",
+        "album": "Shaka Zulu",
+        "year": "1987",
+        "cover": "https://www.listchallenges.com/f/items/ed40fbee-3c86-4265-91bf-cd2d6cb4d1af.jpg"
+    },
+    {
+        "id": 602,
+        "artist": "Laibach",
+        "album": "Opus Dei",
+        "year": "1987",
+        "cover": "https://www.listchallenges.com/f/items/e38e35e6-0262-4371-b41a-306c2ee6eb47.jpg"
+    },
+    {
+        "id": 603,
+        "artist": "Napalm Death",
+        "album": "Scum",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/06503dd2-42bb-4bc5-bc6d-d3c32ce0127e.jpg"
+    },
+    {
+        "id": 604,
+        "artist": "Sonic Youth",
+        "album": "Sister",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/e83a9727-3414-4a00-ac67-59c38ca484d9.jpg"
+    },
+    {
+        "id": 605,
+        "artist": "The Triffids",
+        "album": "Calenture",
+        "year": "1987",
+        "cover": "https://www.listchallenges.com/f/items/f80afc12-7b56-4f2a-8e52-3c37e0085cfe.jpg"
+    },
+    {
+        "id": 606,
+        "artist": "Michael Jackson",
+        "album": "Bad",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/26bebb78-10fb-419c-9adc-7c627c9f5440.jpg"
+    },
+    {
+        "id": 607,
+        "artist": "Pet Shop Boys",
+        "album": "Actually",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/6f9de207-a958-4d15-9c5d-35de327cc7a6.jpg"
+    },
+    {
+        "id": 608,
+        "artist": "U2",
+        "album": "The Joshua Tree",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 609,
+        "artist": "Terence Trent D'arby",
+        "album": "Introducing the Hardline According to Terence Trent D'arby",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 610,
+        "artist": "The Pogues",
+        "album": "If I Should Fall From Grace With God",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 611,
+        "artist": "Leonard Cohen",
+        "album": "I'm Your Man",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 612,
+        "artist": "The Waterboys",
+        "album": "Fisherman's Blues",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 613,
+        "artist": "Fishbone",
+        "album": "Truth and Soul",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 614,
+        "artist": "Everything but the Girl",
+        "album": "Idlewild",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 615,
+        "artist": "Living Colour",
+        "album": "Vivid",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 616,
+        "artist": "Mudhoney",
+        "album": "Superfuzz Bigmuff",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 617,
+        "artist": "R.E.M.",
+        "album": "Green",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 618,
+        "artist": "The Happy Mondays",
+        "album": "Bummed",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 619,
+        "artist": "The Go-Betweens",
+        "album": "16 Lovers Lane",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 620,
+        "artist": "Cowboy Junkies",
+        "album": "The Trinity Session",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 621,
+        "artist": "Tracy Chapman",
+        "album": "Tracy Chapman",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 622,
+        "artist": "My Bloody Valentine",
+        "album": "Isn't Anything",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 623,
+        "artist": "Pixies",
+        "album": "Surfer Rosa",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 624,
+        "artist": "Metallica",
+        "album": "...And Justice for All",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 625,
+        "artist": "Dinosaur Jr.",
+        "album": "Bug",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 626,
+        "artist": "Dagmar Krause",
+        "album": "Tank Battles",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 627,
+        "artist": "K.D. Lang",
+        "album": "Shadowland",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 628,
+        "artist": "American Music Club",
+        "album": "California",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 629,
+        "artist": "Morrissey",
+        "album": "Viva Hate",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 630,
+        "artist": "Sonic Youth",
+        "album": "Daydream Nation",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 631,
+        "artist": "The Sugarcubes",
+        "album": "Life's Too Good",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 632,
+        "artist": "Dwight Yoakam",
+        "album": "Buenas Noches From a Lonely Room",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 633,
+        "artist": "Public Enemy",
+        "album": "It Takes a Nation of Millions to Hold Us Back",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 634,
+        "artist": "Jane's Addiction",
+        "album": "Nothing's Shocking",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 635,
+        "artist": "Faith No More",
+        "album": "The Real Thing",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 636,
+        "artist": "Lenny Kravitz",
+        "album": "Let Love Rule",
+        "year": "1989",
+        "cover": null
+    },
+    {
+        "id": 637,
+        "artist": "John Lee Hooker",
+        "album": "The Healer",
+        "year": "1989",
+        "cover": null
+    },
+    {
+        "id": 638,
+        "artist": "New Order",
+        "album": "Technique",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 639,
+        "artist": "Madonna",
+        "album": "Like a Prayer",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 640,
+        "artist": "Queen Latifah",
+        "album": "All Hail the Queen",
+        "year": "1989",
+        "cover": "https://www.listchallenges.com/f/items/980f4b3e-c842-4ebc-9234-addd72fdc9b7.jpg"
+    },
+    {
+        "id": 641,
+        "artist": "Firehose",
+        "album": "Fromohio",
+        "year": "1989",
+        "cover": "https://www.listchallenges.com/f/items/f96eb420-58f1-4611-8d16-7e16b57ceb01.jpg"
+    },
+    {
+        "id": 642,
+        "artist": "Spacemen 3",
+        "album": "Playing With Fire",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/0b601e82-0fc9-4344-82e1-94a425667b1b.jpg"
+    },
+    {
+        "id": 643,
+        "artist": "The Beastie Boys",
+        "album": "Paul's Boutique",
+        "year": "1989",
+        "cover": "https://www.listchallenges.com/f/items/0aa8880d-1815-4d23-b2d6-45a284cb82d4.jpg"
+    },
+    {
+        "id": 644,
+        "artist": "The Young Gods",
+        "album": "L'eau Rouge",
+        "year": "1989",
+        "cover": "https://www.listchallenges.com/f/items/19a800c9-b586-49d0-befc-a0666de8a4b0.jpg"
+    },
+    {
+        "id": 645,
+        "artist": "John Zorn",
+        "album": "Spy Vs. Spy",
+        "year": "1989",
+        "cover": "https://www.listchallenges.com/f/items/5f321af2-96c8-4777-b00d-ecb6274036ac.jpg"
+    },
+    {
+        "id": 646,
+        "artist": "The Stone Roses",
+        "album": "The Stone Roses",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/1c81980a-5d38-4fe2-ac88-f5fba3ed580c.jpg"
+    },
+    {
+        "id": 647,
+        "artist": "Raw Like Sushi",
+        "album": "Neneh Cherry",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/ccf1ba57-5ae5-4224-ad57-2ec53b7f509e.jpg"
+    },
+    {
+        "id": 648,
+        "artist": "Baaba Maal & Mansour Seck",
+        "album": "Djam Leelii",
+        "year": "1989",
+        "cover": null
+    },
+    {
+        "id": 649,
+        "artist": "Kate Bush",
+        "album": "The Sensual World",
+        "year": "1989",
+        "cover": null
+    },
+    {
+        "id": 650,
+        "artist": "808 State",
+        "album": "90",
+        "year": "1989",
+        "cover": null
+    },
+    {
+        "id": 651,
+        "artist": "The Cure",
+        "album": "Disintegration",
+        "year": "1989",
+        "cover": null
+    },
+    {
+        "id": 652,
+        "artist": "Coldcut",
+        "album": "What's That Noise?",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 653,
+        "artist": "Barry Adamson",
+        "album": "Moss Side Story",
+        "year": "1989",
+        "cover": null
+    },
+    {
+        "id": 654,
+        "artist": "Aerosmith",
+        "album": "Pump",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 655,
+        "artist": "Pixies",
+        "album": "Doolittle",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 656,
+        "artist": "Nick of Time",
+        "album": "Bonnie Raitt",
+        "year": "1989",
+        "cover": null
+    },
+    {
+        "id": 657,
+        "artist": "Fugazi",
+        "album": "Repeater",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 658,
+        "artist": "Soul II Soul",
+        "album": "Club Classics Vol. One",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 659,
+        "artist": "De La Soul",
+        "album": "3 Feet High and Rising",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 660,
+        "artist": "Janet Jackson's",
+        "album": "Rhythm Nation 1814",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 661,
+        "artist": "Jungle Brothers",
+        "album": "Done by the Forces of Nature",
+        "year": "1989",
+        "cover": null
+    },
+    {
+        "id": 662,
+        "artist": "N.W.A",
+        "album": "Straight Outta Compton",
+        "year": "1988",
+        "cover": null
+    },
+    {
+        "id": 663,
+        "artist": "Cocteau Twins",
+        "album": "Heaven or Las Vegas",
+        "year": "1990",
+        "cover": null
+    },
+    {
+        "id": 664,
+        "artist": "Deee-Lite",
+        "album": "World Clique",
+        "year": "1990",
+        "cover": null
+    },
+    {
+        "id": 665,
+        "artist": "The La's",
+        "album": "the La's",
+        "year": "1990",
+        "cover": null
+    },
+    {
+        "id": 666,
+        "artist": "The Shamen",
+        "album": "En-Tact",
+        "year": "1990",
+        "cover": null
+    },
+    {
+        "id": 667,
+        "artist": "Black Crowes",
+        "album": "Shake Your Money Maker",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 668,
+        "artist": "Depeche Mode",
+        "album": "Violator",
+        "year": "1990",
+        "cover": null
+    },
+    {
+        "id": 669,
+        "artist": "Pixies",
+        "album": "Bossanova",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 670,
+        "artist": "Megadeth",
+        "album": "Rust in Peace",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 671,
+        "artist": "Sex Packets (1990)",
+        "album": "Digital Underground",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 672,
+        "artist": "Pet Shop Boys",
+        "album": "Behaviour",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 673,
+        "artist": "Happy Mondays",
+        "album": "Pills N Thrills and Bellyaches",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 674,
+        "artist": "George Michael",
+        "album": "Listen Without Prejudice: Vol 1",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 675,
+        "artist": "Ice Cube",
+        "album": "Amerikkka's Most Wanted",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 676,
+        "artist": "Neil Young and Crazy Horse",
+        "album": "Ragged Glory",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 677,
+        "artist": "Jane's Addiction",
+        "album": "Ritual De Lo Habitual",
+        "year": "1990",
+        "cover": null
+    },
+    {
+        "id": 678,
+        "artist": "LL Cool J",
+        "album": "Mama Said Knock You Out",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 679,
+        "artist": "Public Enemy",
+        "album": "Fear of a Black Planet",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 680,
+        "artist": "Sinead O'connor",
+        "album": "I Do Not Want What I Haven't Got",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/383ea908-b8e6-4cf0-a30b-3838ccdf40c3.jpg"
+    },
+    {
+        "id": 681,
+        "artist": "A Tribe Called Quest",
+        "album": "People's Instinctive Travels",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/758dfa4f-538d-476e-8869-91568210af12.jpg"
+    },
+    {
+        "id": 682,
+        "artist": "Sonic Youth",
+        "album": "Goo",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/f320606a-d66a-48a4-909b-a8d6280eb6ac.jpg"
+    },
+    {
+        "id": 683,
+        "artist": "Ride",
+        "album": "Nowhere",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/519c9581-0d9e-4a0b-b0a3-3d60cdca3092.jpg"
+    },
+    {
+        "id": 684,
+        "artist": "My Bloody Valentine",
+        "album": "Loveless",
+        "year": "1991",
+        "cover": "https://www.listchallenges.com/f/items/ad3d4276-1955-4221-8c5d-e290fd06c988.jpg"
+    },
+    {
+        "id": 685,
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "year": "1991",
+        "cover": "https://www.listchallenges.com/f/items/a8c53efb-ed1b-4de3-9c7e-df598e78e8e5.jpg"
+    },
+    {
+        "id": 686,
+        "artist": "Crowded House",
+        "album": "Woodface",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/76ddbabe-fde5-4768-b033-45886ab1544b.jpg"
+    },
+    {
+        "id": 687,
+        "artist": "Cypress Hill",
+        "album": "Cypress Hill",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/f505103f-8074-4cdd-bc1a-5db7797dc89e.jpg"
+    },
+    {
+        "id": 688,
+        "artist": "Julian Cope",
+        "album": "Peggy Suicide",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 689,
+        "artist": "MC Solar",
+        "album": "Qui Seme Le Vent Recolte Le Tempo",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 690,
+        "artist": "Gang Starr",
+        "album": "Step in the Arena",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 691,
+        "artist": "Jah Wobble",
+        "album": "Rising Above Bedlam",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 692,
+        "artist": "Red Hot Chili Peppers",
+        "album": "Blood Sugar Sex Magik",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 693,
+        "artist": "Ice T",
+        "album": "O.G. Original Gangster (1991)",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 694,
+        "artist": "Mudhoney",
+        "album": "Every Good Boy Deserves Fudge",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 695,
+        "artist": "Public Enemy",
+        "album": "Apocalypse 91...The Enemy Strikes Back",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 696,
+        "artist": "A Tribe Called Quest",
+        "album": "Low End Theory",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 697,
+        "artist": "Saint Etienne",
+        "album": "Fox Base Alpha",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 698,
+        "artist": "Pearl Jam",
+        "album": "Ten",
+        "year": "1991",
+        "cover": null
+    },
+    {
+        "id": 699,
+        "artist": "Slint",
+        "album": "Spiderland",
+        "year": "1991",
+        "cover": null
+    },
+    {
+        "id": 700,
+        "artist": "Sepultura",
+        "album": "Arise",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 701,
+        "artist": "U2",
+        "album": "Achtung Baby",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 702,
+        "artist": "The KLF",
+        "album": "The White Room",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 703,
+        "artist": "Massive Attack",
+        "album": "Blue Lines",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 704,
+        "artist": "Primal Scream",
+        "album": "Screamadelica",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 705,
+        "artist": "Teenage Fanclub",
+        "album": "Bandwagonesque",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 706,
+        "artist": "Metallica",
+        "album": "Metallica",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 707,
+        "artist": "Pavement",
+        "album": "Slanted and Enchanted",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 708,
+        "artist": "Aphex Twin",
+        "album": "Selected Ambient Works 85-92",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 709,
+        "artist": "Arrested Development",
+        "album": "Three Years, Five Months, and Two Days in the Life of ...",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 710,
+        "artist": "Koffi Olomidé",
+        "album": "Haut De Gamme / Koweït Rive Gauche",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 711,
+        "artist": "Morrissey",
+        "album": "Your Arsenal",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 712,
+        "artist": "Baaba Maal",
+        "album": "Lam Torro",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 713,
+        "artist": "Lemonheads",
+        "album": "It's a Shame About Ray",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 714,
+        "artist": "Rage Against the Machine",
+        "album": "Rage Against the Machine",
+        "year": "1992",
+        "cover": null
+    },
+    {
+        "id": 715,
+        "artist": "Disposable Heroes of Hiphoprisy",
+        "album": "Hypocrisy Is the Greatest Luxury",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 716,
+        "artist": "K.D. Lang",
+        "album": "Ingenue",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 717,
+        "artist": "Dr. Dre",
+        "album": "The Chronic",
+        "year": "1992",
+        "cover": null
+    },
+    {
+        "id": 718,
+        "artist": "R.E.M.",
+        "album": "Automatic for the People",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 719,
+        "artist": "Bizarre Ride II the Pharcyde (The Pharcyde",
+        "album": "Bizarre Ride II the Pharcyde",
+        "year": "1992",
+        "cover": null
+    },
+    {
+        "id": 720,
+        "artist": "Spiritualized",
+        "album": "Laser Guided Melodies",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/70ea4c2b-920d-48c1-a8c6-f3407f787245.jpg"
+    },
+    {
+        "id": 721,
+        "artist": "Sugar",
+        "album": "Copper Blue",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/1e753b4f-4a13-492b-ab38-19270bbe5251.jpg"
+    },
+    {
+        "id": 722,
+        "artist": "Tom Waits",
+        "album": "Bone Machine",
+        "year": "1992",
+        "cover": "https://www.listchallenges.com/f/items/93df3aa5-930b-4a30-a00a-25622fc0fc39.jpg"
+    },
+    {
+        "id": 723,
+        "artist": "Sonic Youth",
+        "album": "Dirty",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/03310cda-271b-4ad9-b550-bbdb025ce687.jpg"
+    },
+    {
+        "id": 724,
+        "artist": "Stereo MC's",
+        "album": "Connected",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/76b3aace-5157-4c9c-8f5a-2d3f0afac6e3.jpg"
+    },
+    {
+        "id": 725,
+        "artist": "Ministry",
+        "album": "Psalm 69",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/8b72b366-13c1-45a0-a1ab-be194d28de47.jpg"
+    },
+    {
+        "id": 726,
+        "artist": "Tori Amos",
+        "album": "Little Earthquakes",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/a158c921-19ca-42f5-8823-a31ade48efe0.jpg"
+    },
+    {
+        "id": 727,
+        "artist": "Ice Cube",
+        "album": "The Predator",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/5948023e-3988-4e50-9119-84cb830fffc8.jpg"
+    },
+    {
+        "id": 728,
+        "artist": "Pantera",
+        "album": "Vulgar Display of Power",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 729,
+        "artist": "Alice in Chains",
+        "album": "Dirt",
+        "year": "1992",
+        "cover": null
+    },
+    {
+        "id": 730,
+        "artist": "Nick Cave and the Bad Seeds",
+        "album": "By Henry's Dream",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 731,
+        "artist": "Ali Fateh Nusart Khan",
+        "album": "Devotional Songs",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 732,
+        "artist": "P.J. Harvey",
+        "album": "Dry",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 733,
+        "artist": "Suede",
+        "album": "Suede",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 734,
+        "artist": "Paul Weller",
+        "album": "Wild Wood",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 735,
+        "artist": "Smashing Pumpkins",
+        "album": "Siamese Dream",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 736,
+        "artist": "New Wave",
+        "album": "The Auteurs",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 737,
+        "artist": "Liz Phair",
+        "album": "Exile in Guyville",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 738,
+        "artist": "Afghan Whigs",
+        "album": "Gentlemen",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 739,
+        "artist": "Aimee Mann",
+        "album": "Whatever",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 740,
+        "artist": "Grant Lee Buffalo",
+        "album": "Fuzzy",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 741,
+        "artist": "Nirvana",
+        "album": "In Utero",
+        "year": "1993",
+        "cover": null
+    },
+    {
+        "id": 742,
+        "artist": "Jamiroquai",
+        "album": "Emergency on Planet Earth",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 743,
+        "artist": "Pet Shop Boys",
+        "album": "Very",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 744,
+        "artist": "P.J. Harvey",
+        "album": "Rid of Me",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 745,
+        "artist": "Blur",
+        "album": "Modern Life Is Rubbish",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 746,
+        "artist": "Sheryl Crow",
+        "album": "Tuesday Night Music Club",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 747,
+        "artist": "The Fall",
+        "album": "The Infotainment Scan",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 748,
+        "artist": "Wu-Tang Clan",
+        "album": "Enter the Wu-Tang (36 Chambers)",
+        "year": "1993",
+        "cover": null
+    },
+    {
+        "id": 749,
+        "artist": "Björk",
+        "album": "Debut",
+        "year": "1993",
+        "cover": null
+    },
+    {
+        "id": 750,
+        "artist": "Orbital",
+        "album": "Orbital 2",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 751,
+        "artist": "Snoop Doggy Dogg",
+        "album": "Doggystyle",
+        "year": "1993",
+        "cover": null
+    },
+    {
+        "id": 752,
+        "artist": "Sebadoh",
+        "album": "Bubble and Scrape",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 753,
+        "artist": "The Boo Radleys",
+        "album": "Giant Steps",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 754,
+        "artist": "William Orbit",
+        "album": "Strange Cargo Lll",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 755,
+        "artist": "Method Man",
+        "album": "Tical",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 756,
+        "artist": "Frank Black",
+        "album": "Teenager of the Year",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 757,
+        "artist": "Girls Against Boys",
+        "album": "Venus Luxure No 1 Baby",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 758,
+        "artist": "Jeru the Damaja",
+        "album": "The Sun Rises in the East",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 759,
+        "artist": "Pavement",
+        "album": "Crooked Rain, Crooked Rain",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 760,
+        "artist": "Portishead",
+        "album": "Dummy",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/9ce63379-3f21-43ef-9c6a-4720a4f69cc1.jpg"
+    },
+    {
+        "id": 761,
+        "artist": "Sabres of Paradise",
+        "album": "Haunted Dancehall",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/b4252793-7568-4ff3-9fe0-fbce3885dc40.jpg"
+    },
+    {
+        "id": 762,
+        "artist": "Nas",
+        "album": "Illmatic",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/5fe17c48-c089-4a66-a15f-a0e36d3540ed.jpg"
+    },
+    {
+        "id": 763,
+        "artist": "Beastie Boys",
+        "album": "Ill Communication",
+        "year": "1994",
+        "cover": "https://www.listchallenges.com/f/items/4d90636f-2bf8-400f-85f6-6872ded9e879.jpg"
+    },
+    {
+        "id": 764,
+        "artist": "Elvis Costello",
+        "album": "Brutal Youth",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/1044c606-d614-4f0d-baec-3af9dfb69b3e.jpg"
+    },
+    {
+        "id": 765,
+        "artist": "Morrissey",
+        "album": "Vauxhall and I",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/5835f492-5bb8-4ad6-9b2b-0b37e6c87854.jpg"
+    },
+    {
+        "id": 766,
+        "artist": "TLC",
+        "album": "Crazysexycool",
+        "year": "1994",
+        "cover": "https://www.listchallenges.com/f/items/bf54f98d-474a-4c70-9317-6dd3e4a20dc7.jpg"
+    },
+    {
+        "id": 767,
+        "artist": "Oasis",
+        "album": "Definitely Maybe",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/e9d93fe4-87cf-4013-8545-3660d0ed6df8.jpg"
+    },
+    {
+        "id": 768,
+        "artist": "Soundgarden",
+        "album": "Superunknown",
+        "year": "1994",
+        "cover": null
+    },
+    {
+        "id": 769,
+        "artist": "The Offspring",
+        "album": "Smash",
+        "year": "1994",
+        "cover": null
+    },
+    {
+        "id": 770,
+        "artist": "Drive Like Jehu",
+        "album": "Yank Crime",
+        "year": "1994",
+        "cover": null
+    },
+    {
+        "id": 771,
+        "artist": "Blur",
+        "album": "Parklife",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 772,
+        "artist": "G Love & Special Sauce",
+        "album": "G Love & Special Sauce",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 773,
+        "artist": "Ali Farka Toure and Ry Cooder",
+        "album": "Talking Timbuktu",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 774,
+        "artist": "Hole",
+        "album": "Live Through This",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 775,
+        "artist": "Massive Attack",
+        "album": "Protection",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 776,
+        "artist": "Manic Street Preachers",
+        "album": "The Holy Bible",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 777,
+        "artist": "Suede",
+        "album": "Dog Man Star",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 778,
+        "artist": "The Notorious B.I.G",
+        "album": "Ready to Die",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 779,
+        "artist": "Jeff Buckley",
+        "album": "Grace",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 780,
+        "artist": "Orbital",
+        "album": "Snivilisation",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 781,
+        "artist": "Nirvana",
+        "album": "MTV Unplugged in New York",
+        "year": "1994",
+        "cover": null
+    },
+    {
+        "id": 782,
+        "artist": "Nine Inch Nails",
+        "album": "The Downward Spiral",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 783,
+        "artist": "The Prodigy",
+        "album": "Music for the Jilted Generation",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 784,
+        "artist": "Green Day",
+        "album": "Dookie",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 785,
+        "artist": "Foo Fighters",
+        "album": "Foo Fighters",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 786,
+        "artist": "Garbage",
+        "album": "Garbage",
+        "year": "1995",
+        "cover": null
+    },
+    {
+        "id": 787,
+        "artist": "Nightmares on Wax Smokers",
+        "album": "Delight",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 788,
+        "artist": "Tricky",
+        "album": "Maxinquaye",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 789,
+        "artist": "Raekwon",
+        "album": "Only Built 4 Cuban Linx",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 790,
+        "artist": "Smashing Pumpkins",
+        "album": "Mellon Collie and the Infinite Sadness",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 791,
+        "artist": "Rocket From the Crypt",
+        "album": "Scream Dracula Scream",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 792,
+        "artist": "The Chemical Brothers",
+        "album": "Exit Planet Dust",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 793,
+        "artist": "2Pac",
+        "album": "Me Against the World",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 794,
+        "artist": "Elastica",
+        "album": "Elastica",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 795,
+        "artist": "Supergrass",
+        "album": "I Should Coco",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 796,
+        "artist": "Radiohead",
+        "album": "The Bends",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 797,
+        "artist": "Guided by Voices",
+        "album": "Alien Lanes",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 798,
+        "artist": "Femi Kutti",
+        "album": "Femi Kutti",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 799,
+        "artist": "The Verve",
+        "album": "A Northern Soul",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 800,
+        "artist": "GZA",
+        "album": "Liquid Swords",
+        "year": "1995",
+        "cover": "https://www.listchallenges.com/f/items/738d0613-b28b-40bb-8b64-86fdae6d8b2c.jpg"
+    },
+    {
+        "id": 801,
+        "artist": "Pulp",
+        "album": "Different Class",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/46d54fb6-6e10-4b03-9b97-a3114c467b76.jpg"
+    },
+    {
+        "id": 802,
+        "artist": "Leftfield",
+        "album": "Leftism",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/ebbcedfc-a1bb-4f3b-95bc-52748a958348.jpg"
+    },
+    {
+        "id": 803,
+        "artist": "D'angelo",
+        "album": "Brown Sugar",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/e5c2cff1-14a9-4299-bf7c-5584579c240b.jpg"
+    },
+    {
+        "id": 804,
+        "artist": "Oasis",
+        "album": "(What's the Story) Morning Glory?",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/5ab3b07a-3659-4f91-b252-ad49f781c26a.jpg"
+    },
+    {
+        "id": 805,
+        "artist": "Goldie",
+        "album": "Timeless",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/1ec2167c-befd-4f1f-8bdb-259720ab56e4.jpg"
+    },
+    {
+        "id": 806,
+        "artist": "Alanis Morissette",
+        "album": "Jagged Little Pill",
+        "year": "1995",
+        "cover": "https://www.listchallenges.com/f/items/a64108fd-2cc1-4ffd-980e-eb966f372a5f.jpg"
+    },
+    {
+        "id": 807,
+        "artist": "Screaming Trees",
+        "album": "Dust",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/3a4a7064-d8e2-45af-affb-05d9a77d4c5d.jpg"
+    },
+    {
+        "id": 808,
+        "artist": "Super Furry Animals",
+        "album": "Fuzzy Logic",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 809,
+        "artist": "Fatboy Slim",
+        "album": "Better Living Through Chemistry",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 810,
+        "artist": "Dr. Octagon",
+        "album": "Dr. Octagonecologyst",
+        "year": "1996",
+        "cover": null
+    },
+    {
+        "id": 811,
+        "artist": "Stereolab",
+        "album": "Emperor Tomato Ketchup",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 812,
+        "artist": "Tortoise",
+        "album": "Millions Now Living Will Never Die",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 813,
+        "artist": "Beck",
+        "album": "Odelay",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 814,
+        "artist": "Belle & Sebastian",
+        "album": "Tigermilk",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 815,
+        "artist": "Dj Shadow",
+        "album": "Endtroducing.....",
+        "year": "1996",
+        "cover": null
+    },
+    {
+        "id": 816,
+        "artist": "Eels",
+        "album": "Beautiful Freak",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 817,
+        "artist": "The Divine Comedy",
+        "album": "Casanova",
+        "year": "1996",
+        "cover": null
+    },
+    {
+        "id": 818,
+        "artist": "Fiona Apple",
+        "album": "Tidal",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 819,
+        "artist": "Wilco",
+        "album": "Being There",
+        "year": "1996",
+        "cover": null
+    },
+    {
+        "id": 820,
+        "artist": "Sepultura",
+        "album": "Roots",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 821,
+        "artist": "Barry Adamson",
+        "album": "Oedipus Schmoedipus",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 822,
+        "artist": "Fun Lovin' Criminals",
+        "album": "Come Find Yourself",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 823,
+        "artist": "Maxwell",
+        "album": "Urban Hang Suite",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 824,
+        "artist": "The Charlatans",
+        "album": "Tellin' Stories",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 825,
+        "artist": "Manic Street Preachers",
+        "album": "Everything Must Go",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 826,
+        "artist": "Everything but the Girl",
+        "album": "Walking Wounded",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 827,
+        "artist": "Nick Cave & the Bad Seeds",
+        "album": "Murder Ballads",
+        "year": "1996",
+        "cover": null
+    },
+    {
+        "id": 828,
+        "artist": "Ltj Bukem",
+        "album": "Logical Progression",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 829,
+        "artist": "Underworld",
+        "album": "Second Toughest in the Infants",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 830,
+        "artist": "Jon Spencer",
+        "album": "Blues Group Now I Got Worry",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 831,
+        "artist": "Cardigans",
+        "album": "First Band on the Moon",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 832,
+        "artist": "Marilyn Manson",
+        "album": "Antichrist Superstar",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 833,
+        "artist": "Ash",
+        "album": "1977",
+        "year": "1996",
+        "cover": null
+    },
+    {
+        "id": 834,
+        "artist": "The Fugees",
+        "album": "The Score",
+        "year": "1996",
+        "cover": null
+    },
+    {
+        "id": 835,
+        "artist": "Belle and Sebastian",
+        "album": "If You're Feeling Sinister",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 836,
+        "artist": "Blur",
+        "album": "Blur",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 837,
+        "artist": "Radiohead",
+        "album": "OK Computer",
+        "year": "1997",
+        "cover": null
+    },
+    {
+        "id": 838,
+        "artist": "Finely Quaye",
+        "album": "Maverick a Strike",
+        "year": "1997",
+        "cover": null
+    },
+    {
+        "id": 839,
+        "artist": "Missy 'Misdemeanor' Elliott",
+        "album": "Supa Dupa Fly",
+        "year": "1997",
+        "cover": null
+    },
+    {
+        "id": 840,
+        "artist": "The Chemical Brothers",
+        "album": "Dig Your Own Hole",
+        "year": "1997",
+        "cover": "https://www.listchallenges.com/f/items/c1cdc710-48da-4b0f-86f9-ba44aaaac51a.jpg"
+    },
+    {
+        "id": 841,
+        "artist": "Primal Scream",
+        "album": "Vanishing Point",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/9d9bc295-374b-4222-98e5-9c5052c3c433.jpg"
+    },
+    {
+        "id": 842,
+        "artist": "Robert Wyatt",
+        "album": "Shleep",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/6404c305-d72d-4581-b469-63dd6b99baf8.jpg"
+    },
+    {
+        "id": 843,
+        "artist": "Sleater-Kinney",
+        "album": "Dig Me Out",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/e21058bd-d60e-4d5a-a140-bcdbb7821f7d.jpg"
+    },
+    {
+        "id": 844,
+        "artist": "David Holmes",
+        "album": "Lets Get Killed",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/e0b76f6c-b46d-4bdb-af9d-f622d52a631f.jpg"
+    },
+    {
+        "id": 845,
+        "artist": "The Prodigy",
+        "album": "The Fat of the Land",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/91c51f7a-4971-4198-abdf-89ae6e1865f8.jpg"
+    },
+    {
+        "id": 846,
+        "artist": "Buena Vista Social Club",
+        "album": "Buena Vista Social Club",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/c432ade7-6978-4dc5-ab61-e479003f0ab5.jpg"
+    },
+    {
+        "id": 847,
+        "artist": "Nick Cave and the Bad Seeds",
+        "album": "The Boatman's Call",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/e9bcc1a6-cda2-4380-b847-1baa90457316.jpg"
+    },
+    {
+        "id": 848,
+        "artist": "Divine Comedy",
+        "album": "A Short Album About Love",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 849,
+        "artist": "Cornershop",
+        "album": "When I Was Born for the 7th Time",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 850,
+        "artist": "Daft Punk",
+        "album": "Homework",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 851,
+        "artist": "Robbie Williams",
+        "album": "Life Thru a Lens",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 852,
+        "artist": "Mariah Carey",
+        "album": "Butterfly",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 853,
+        "artist": "Supergrass",
+        "album": "In It for the Money",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 854,
+        "artist": "Bob Dylan",
+        "album": "Time Out of Mind",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 855,
+        "artist": "Reprazent and Roni Size",
+        "album": "New Forms",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 856,
+        "artist": "Elliott Smith",
+        "album": "Either/Or",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 857,
+        "artist": "The Verve",
+        "album": "Urban Hymns",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 858,
+        "artist": "Spiritualized",
+        "album": "Ladies and Gentlemen We Are Floating in Space",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 859,
+        "artist": "System of a Down",
+        "album": "System of a Down",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 860,
+        "artist": "Bob Dylan",
+        "album": "Live 1966",
+        "year": "1998",
+        "cover": null
+    },
+    {
+        "id": 861,
+        "artist": "Manu Chao",
+        "album": "Clandestino",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 862,
+        "artist": "Billy Bragg and Wilco",
+        "album": "Mermaid Avenue",
+        "year": "1998",
+        "cover": null
+    },
+    {
+        "id": 863,
+        "artist": "Turbonegro",
+        "album": "Apocalypse Dudes",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 864,
+        "artist": "Fatboy Slim",
+        "album": "You've Come a Long Way Baby",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 865,
+        "artist": "David Gray",
+        "album": "White Ladder",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 866,
+        "artist": "Pulp",
+        "album": "This Is Hardcore",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 867,
+        "artist": "Lucinda Williams",
+        "album": "Car Wheels on a Gravel Road",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 868,
+        "artist": "Madonna",
+        "album": "Ray of Light",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 869,
+        "artist": "Lauryn Hill",
+        "album": "The Miseducation of Lauryn Hill",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 870,
+        "artist": "Hole",
+        "album": "Celebrity Skin",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 871,
+        "artist": "The Dandy Warhols",
+        "album": "Come Down",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 872,
+        "artist": "Mercury Rev",
+        "album": "Deserter's Songs",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 873,
+        "artist": "Queens of the Stone Age",
+        "album": "Queens of the Stone Age",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 874,
+        "artist": "Air",
+        "album": "Moon Safari",
+        "year": "1998",
+        "cover": null
+    },
+    {
+        "id": 875,
+        "artist": "Talvin Singh",
+        "album": "Ok",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 876,
+        "artist": "Korn",
+        "album": "Follow the Leader",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 877,
+        "artist": "Kid Rock",
+        "album": "Devil Without a Cause",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 878,
+        "artist": "Boards of Canada",
+        "album": "Music Has the Right to Children",
+        "year": "1998",
+        "cover": null
+    },
+    {
+        "id": 879,
+        "artist": "Suba",
+        "album": "Sao Paulo Confessions",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 880,
+        "artist": "Khaled",
+        "album": "Kenza",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/d067b010-1fc7-4f98-b402-9188ffb9d61a.jpg"
+    },
+    {
+        "id": 881,
+        "artist": "XTC",
+        "album": "Apple Venus",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/ebb724b6-7ab9-4173-a7c2-6b2dc22b677c.jpg"
+    },
+    {
+        "id": 882,
+        "artist": "Incubus",
+        "album": "Make Yourself",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/4e04dead-f648-46d7-8f19-a690334d637c.jpg"
+    },
+    {
+        "id": 883,
+        "artist": "The Magnetic Fields",
+        "album": "69 Love Songs",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/5eb1b474-b869-4f86-8e70-f85350ccb602.jpg"
+    },
+    {
+        "id": 884,
+        "artist": "Travis",
+        "album": "Man Who",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/9841037a-9f64-4577-a17e-b3c236a9b754.jpg"
+    },
+    {
+        "id": 885,
+        "artist": "Slipknot",
+        "album": "Slipknot",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/97b480bd-028f-4203-9cf4-c11c4ff07429.jpg"
+    },
+    {
+        "id": 886,
+        "artist": "Beth Orton",
+        "album": "Central Reservation",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/c4dc5ca8-dc5b-400d-aa9e-b8f80f227625.jpg"
+    },
+    {
+        "id": 887,
+        "artist": "Nitin Sawhney",
+        "album": "Beyond Skin",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/3148a153-6706-4e6d-96f7-12ade5b43bfd.jpg"
+    },
+    {
+        "id": 888,
+        "artist": "Death in Vegas",
+        "album": "Contino Sessions",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 889,
+        "artist": "Moby",
+        "album": "Play",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 890,
+        "artist": "The Flaming Lips",
+        "album": "The Soft Bulletin",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 891,
+        "artist": "Les Digitales Rhymes",
+        "album": "Darkdancer",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 892,
+        "artist": "Le Tigre",
+        "album": "Le Tigre",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 893,
+        "artist": "Eminem",
+        "album": "The Slim Shady LP",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 894,
+        "artist": "Metallica",
+        "album": "S&M",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 895,
+        "artist": "Bonnie 'Prince' Billy",
+        "album": "I See a Darkness",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 896,
+        "artist": "Shack",
+        "album": "H.M.S. Fable",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 897,
+        "artist": "Basement Jaxx",
+        "album": "Remedy",
+        "year": "1999",
+        "cover": null
+    },
+    {
+        "id": 898,
+        "artist": "Britney Spears",
+        "album": "....Baby One More Time",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 899,
+        "artist": "Red Hot Chili Peppers",
+        "album": "Californication",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 900,
+        "artist": "Sigur Rós",
+        "album": "Ágætis Byrjun",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 901,
+        "artist": "Skunk Anansie",
+        "album": "Post Orgasmic Chill",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 902,
+        "artist": "Doves",
+        "album": "Lost Souls",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 903,
+        "artist": "Air",
+        "album": "The Virgin Suicides",
+        "year": "2000",
+        "cover": null
+    },
+    {
+        "id": 904,
+        "artist": "Ryan Adams",
+        "album": "Heartbreaker",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 905,
+        "artist": "Bebel Gilberto",
+        "album": "Tanto Tempo",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 906,
+        "artist": "M. J. Cole",
+        "album": "Sincere",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 907,
+        "artist": "Limp Bizkit",
+        "album": "Chocolate Starfish and the Hot Dog Flavored Water",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 908,
+        "artist": "Emmylou Harris",
+        "album": "Red Dirt Girl",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 909,
+        "artist": "Radiohead",
+        "album": "Kid A",
+        "year": "2000",
+        "cover": null
+    },
+    {
+        "id": 910,
+        "artist": "Badly Drawn Boy",
+        "album": "Hour of Bewilderbeast",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 911,
+        "artist": "U2",
+        "album": "All That You Can't Leave Behind",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 912,
+        "artist": "Coldplay",
+        "album": "Parachutes",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 913,
+        "artist": "Elliott Smith",
+        "album": "Figure 8",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 914,
+        "artist": "Erykah Badu",
+        "album": "Mama's Gun",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 915,
+        "artist": "Madonna",
+        "album": "Music",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 916,
+        "artist": "PJ Harvey",
+        "album": "Stories From the City, Stories From the Sea",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 917,
+        "artist": "Mike Ladd",
+        "album": "Welcome to the Afterfuture",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 918,
+        "artist": "Lambchop",
+        "album": "Nixion",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 919,
+        "artist": "Linkin Park",
+        "album": "Hybrid Theory",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 920,
+        "artist": "Goldfrapp",
+        "album": "Felt Mountain",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/3060842a-b087-4fca-865b-5ffdcdf85bc1.jpg"
+    },
+    {
+        "id": 921,
+        "artist": "Eminem",
+        "album": "The Marshall Mathers LP",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/7c03bf07-c2cf-4933-8988-8af82a5a21d8.jpg"
+    },
+    {
+        "id": 922,
+        "artist": "Red Snapper",
+        "album": "Our Aim Is to Satisfy",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/834a2d59-4c62-4410-a14a-e4cb98a6d47a.jpg"
+    },
+    {
+        "id": 923,
+        "artist": "Ute Lemper",
+        "album": "Punishing Kiss",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/1d19dd74-b73b-4e6d-8919-6487d1a9f4a8.jpg"
+    },
+    {
+        "id": 924,
+        "artist": "The Avalanches",
+        "album": "Since I Left You",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/57e4c664-94f3-4625-8bdc-91027ab8401d.jpg"
+    },
+    {
+        "id": 925,
+        "artist": "Outkast",
+        "album": "Stankonia",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/8c6f7f84-ef01-46a4-84de-d83c1feeec3f.jpg"
+    },
+    {
+        "id": 926,
+        "artist": "Common",
+        "album": "Like Water for Chocolate",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/f2808557-fe3c-4209-8d95-d1db8d83b513.jpg"
+    },
+    {
+        "id": 927,
+        "artist": "Silver Jews",
+        "album": "Bright Flight",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/920720ce-a918-4c3c-ae3b-d255c6b412e2.jpg"
+    },
+    {
+        "id": 928,
+        "artist": "Giant Sand",
+        "album": "Chore of Enchantment",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 929,
+        "artist": "Björk",
+        "album": "Vespertine",
+        "year": "2001",
+        "cover": null
+    },
+    {
+        "id": 930,
+        "artist": "Radiohead",
+        "album": "Amnesiac",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 931,
+        "artist": "Ryan Adams",
+        "album": "Gold",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 932,
+        "artist": "Gorillaz",
+        "album": "Gorillaz",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 933,
+        "artist": "The Strokes",
+        "album": "Is This It",
+        "year": "2001",
+        "cover": null
+    },
+    {
+        "id": 934,
+        "artist": "Survivor",
+        "album": "Destiny's Child",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 935,
+        "artist": "Gillian Welch",
+        "album": "The Revelator",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 936,
+        "artist": "Gotan Project",
+        "album": "La Revancha Del Tango",
+        "year": "2001",
+        "cover": null
+    },
+    {
+        "id": 937,
+        "artist": "The White Stripes",
+        "album": "White Blood Cells",
+        "year": "2001",
+        "cover": null
+    },
+    {
+        "id": 938,
+        "artist": "The Beta Band",
+        "album": "Hot Shots II",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 939,
+        "artist": "The Hives",
+        "album": "Your New Favourite Band",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 940,
+        "artist": "Jay Z",
+        "album": "The Blueprint (",
+        "year": "2001",
+        "cover": null
+    },
+    {
+        "id": 941,
+        "artist": "Röyksopp",
+        "album": "Melody A.M.",
+        "year": "2001",
+        "cover": null
+    },
+    {
+        "id": 942,
+        "artist": "Drive-By Truckers",
+        "album": "Southern Rock Opera",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 943,
+        "artist": "Super Furry Animals",
+        "album": "Rings Around the World",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 944,
+        "artist": "The Vines",
+        "album": "Highly Evolved",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 945,
+        "artist": "Jurassic 5",
+        "album": "Power in Numbers",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 946,
+        "artist": "Wilco",
+        "album": "Yankee Hotel Foxtrot",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 947,
+        "artist": "Christina Aguilera",
+        "album": "Stripped",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 948,
+        "artist": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 949,
+        "artist": "Ms Dynamite",
+        "album": "A Little Deeper",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 950,
+        "artist": "Norah Jones",
+        "album": "Come Away With Me",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 951,
+        "artist": "The Flaming Lips",
+        "album": "Yoshimi Battles the Pink Robots",
+        "year": "2002",
+        "cover": null
+    },
+    {
+        "id": 952,
+        "artist": "Johnny Cash",
+        "album": "American IV: The Man Comes Around",
+        "year": "2002",
+        "cover": null
+    },
+    {
+        "id": 953,
+        "artist": "Doves",
+        "album": "The Last Broadcast",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 954,
+        "artist": "Justin Timberlake",
+        "album": "Justified",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 955,
+        "artist": "Bruce Springsteen",
+        "album": "The Rising",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 956,
+        "artist": "The Bees",
+        "album": "Sunshine Hit Me",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 957,
+        "artist": "The Roots",
+        "album": "Phrenology",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 958,
+        "artist": "Beck",
+        "album": "Sea Change",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 959,
+        "artist": "The Coral",
+        "album": "The Coral",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 960,
+        "artist": "Missy Elliott",
+        "album": "Under Construction",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/45ad643d-ad87-4fc3-bc87-fde3502134dd.jpg"
+    },
+    {
+        "id": 961,
+        "artist": "Outkast",
+        "album": "Speakerboxxx/The Love Below",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/3cb66216-6a6e-44a0-8c91-a6f2dc02c16b.jpg"
+    },
+    {
+        "id": 962,
+        "artist": "Calexico",
+        "album": "Feast of Wire",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/be4ec972-6645-4370-a9b0-efdacae89d77.jpg"
+    },
+    {
+        "id": 963,
+        "artist": "Radiohead",
+        "album": "Hail to the Thief",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/63b72538-d4f2-4b34-9776-ff2e5fe42cfb.jpg"
+    },
+    {
+        "id": 964,
+        "artist": "The Darkness",
+        "album": "Permission to Land",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/0bc41be0-8d51-434f-9de4-26cdf06afd48.jpg"
+    },
+    {
+        "id": 965,
+        "artist": "50 Cent",
+        "album": "Get Rich or Die Tryin'",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/9326cfd7-626a-4014-81c0-cbbfc5571ba9.jpg"
+    },
+    {
+        "id": 966,
+        "artist": "Dizzee Rascal",
+        "album": "Boy in Da Corner",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/33a43708-0427-49ba-a5a8-a5cd139b38b9.jpg"
+    },
+    {
+        "id": 967,
+        "artist": "The Mars Volta",
+        "album": "De-Loused in the Comatorium",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/8b64c80a-fad5-47be-81f9-063fb85c6036.jpg"
+    },
+    {
+        "id": 968,
+        "artist": "Lightning Bolt",
+        "album": "Wonderful Rainbow",
+        "year": "2003",
+        "cover": null
+    },
+    {
+        "id": 969,
+        "artist": "The White Stripes",
+        "album": "Elephant",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 970,
+        "artist": "Kings of Leon",
+        "album": "Youth and Young Manhood",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 971,
+        "artist": "Rufus Wainwright",
+        "album": "Want One",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 972,
+        "artist": "The Thrills",
+        "album": "So Much for the City",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 973,
+        "artist": "Yeah Yeah Yeahs",
+        "album": "Fever to Tell",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 974,
+        "artist": "Amy Winehouse",
+        "album": "Frank",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 975,
+        "artist": "Devendra Banhart",
+        "album": "Rejoicing in the Hands",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 976,
+        "artist": "Nick Cave and the Bad Seeds",
+        "album": "The Lyre of Orpheus/Abattoir Blues",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 977,
+        "artist": "Scissor Sisters",
+        "album": "Scissor Sister",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 978,
+        "artist": "Franz Ferdinand",
+        "album": "Franz Ferdinand",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 979,
+        "artist": "Bjork",
+        "album": "Medulla",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 980,
+        "artist": "N.E.R.D",
+        "album": "Fly or Die",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 981,
+        "artist": "Kanye West",
+        "album": "The College Dropout",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 982,
+        "artist": "Cee-Lo Green",
+        "album": "...Is the Soul Machine",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 983,
+        "artist": "Kings of Leon",
+        "album": "Aha Shake Heartbreak",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 984,
+        "artist": "Mylo",
+        "album": "Destroy Rock and Roll",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 985,
+        "artist": "Ozamatli",
+        "album": "Street Sings",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 986,
+        "artist": "The Streets",
+        "album": "A Grand Don't Come for Free",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 987,
+        "artist": "Brian Wilson",
+        "album": "Smile",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 988,
+        "artist": "The Beta Band",
+        "album": "Heroes to Zeros",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 989,
+        "artist": "Rufus Wainwright",
+        "album": "Want Two",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 990,
+        "artist": "The Libertines",
+        "album": "The Libertines",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 991,
+        "artist": "TV on the Radio",
+        "album": "Desperate Youth, Blood Thirsty Babes",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 992,
+        "artist": "Liars",
+        "album": "They Were Wrong So We Drowned",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 993,
+        "artist": "Arcade Fire",
+        "album": "Funeral",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 994,
+        "artist": "The Zutons",
+        "album": "Who Killed the Zutons",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 995,
+        "artist": "The Killers",
+        "album": "Hot Fuss",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 996,
+        "artist": "Green Day",
+        "album": "American Idiot",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 997,
+        "artist": "The Icarus Line",
+        "album": "Penance Soiree",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 998,
+        "artist": "Morrissey",
+        "album": "You Are the Quarry",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 999,
+        "artist": "M.I.A.",
+        "album": "Arular",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1000,
+        "artist": "Common",
+        "album": "Be",
+        "year": "2005",
+        "cover": "https://www.listchallenges.com/f/items/44c04570-8cfc-47d2-b8c9-c35db0e69911.jpg"
+    },
+    {
+        "id": 1001,
+        "artist": "Antony & the Johnsons",
+        "album": "I Am a Bird Now",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/b49279e5-7a9a-4e94-a4b3-d7a10abb5d79.jpg"
+    },
+    {
+        "id": 1002,
+        "artist": "Richard Hawley",
+        "album": "Coles Corner",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/cfbb0b11-e3e6-46b9-aab0-bf6572e6ca3b.jpg"
+    },
+    {
+        "id": 1003,
+        "artist": "Beck",
+        "album": "Guero",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/2e8e49ba-ee33-4c02-b2d9-b7ad66fec2ee.jpg"
+    },
+    {
+        "id": 1004,
+        "artist": "Sufjan Stevens",
+        "album": "Illinois",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/3520c55f-3b56-4cb9-8999-c6c342984241.jpg"
+    },
+    {
+        "id": 1005,
+        "artist": "The White Stripes",
+        "album": "Get Behind Me Satan",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/df2c2380-60f5-4fe8-aaad-ef5861d7b4af.jpg"
+    },
+    {
+        "id": 1006,
+        "artist": "Amy Winehouse",
+        "album": "Back to Black",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/4f32ac21-1074-4828-9026-0e88fb568f92.jpg"
+    },
+    {
+        "id": 1007,
+        "artist": "Christina Aguilera",
+        "album": "Back to Basics",
+        "year": null,
+        "cover": "https://www.listchallenges.com/f/items/76b9e95a-a969-4e89-9fdc-76f0758ce9cc.jpg"
+    },
+    {
+        "id": 1008,
+        "artist": "Lupe Fiasco",
+        "album": "Food & Liquor",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1009,
+        "artist": "Ghostface Killah",
+        "album": "Fishscale",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1010,
+        "artist": "Ali Farka Touré",
+        "album": "Savane",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1011,
+        "artist": "Muse",
+        "album": "Black Holes and Revelations",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1012,
+        "artist": "Joanna Newsom",
+        "album": "Ys",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1013,
+        "artist": "Arctic Monkeys",
+        "album": "Whatever People Say I Am, That's What I'm Not",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1014,
+        "artist": "Klaxons",
+        "album": "Myths of the Near Future",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1015,
+        "artist": "LCD Soundsystem",
+        "album": "Sound of Silver",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1016,
+        "artist": "Radiohead",
+        "album": "In Rainbows",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1017,
+        "artist": "Arcade Fire",
+        "album": "Neon Bible",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1018,
+        "artist": "MIA",
+        "album": "Kala",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1019,
+        "artist": "The Good, the Bad & the Queen",
+        "album": "The Good, the Bad & the Queen",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1020,
+        "artist": "Justice",
+        "album": "Cross",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1021,
+        "artist": "Q-Tip",
+        "album": "The Renaissance",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1022,
+        "artist": "Only by the Night",
+        "album": "Kings of Leon",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1023,
+        "artist": "Fleet Foxes",
+        "album": "Fleet Foxes",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1024,
+        "artist": null,
+        "album": null,
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1025,
+        "artist": "Elbow",
+        "album": "The Seldom Seen Kid",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1026,
+        "artist": "Portishead",
+        "album": "Third",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1027,
+        "artist": "MGMT",
+        "album": "Oracular Spectacular",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1028,
+        "artist": "Goldfrapp",
+        "album": "Seventh Tree",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1029,
+        "artist": "TV on the Radio",
+        "album": "Dear Science",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1030,
+        "artist": "Slipknot",
+        "album": "All Hope Is Gone",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1031,
+        "artist": "Wild Beasts",
+        "album": "Two Dancers",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1032,
+        "artist": "Bill Callahan",
+        "album": "Sometimes I Wish We Were an Eagle",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1033,
+        "artist": "Animal Collective",
+        "album": "Merriweather Post Pavilion",
+        "year": "2009",
+        "cover": null
+    },
+    {
+        "id": 1034,
+        "artist": "Grizzly Bear",
+        "album": "Veckatimest",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1035,
+        "artist": "Yeah Yeah Yeahs",
+        "album": "It's Blitz!",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1036,
+        "artist": "Dirty Projectors",
+        "album": "Bitte Orca",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1037,
+        "artist": "The Xx",
+        "album": "Xx",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1038,
+        "artist": "Fever Ray",
+        "album": "Fever Ray",
+        "year": null,
+        "cover": null
+    },
+    {
+        "id": 1039,
+        "artist": "Beach House",
+        "album": "Teen Dream",
+        "year": null,
+        "cover": null
+    }
+]

@@ -1,7 +1,8 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
-const fs = require("fs");
-const chalk = require("chalk");
+// Libraries
+import axios from "axios";
+import cheerio from 'cheerio';
+import fs from "fs";
+import chalk from "chalk";
 
 const outputFile = "data.json";
 const parsedResults = [];
@@ -9,24 +10,14 @@ const pageLimit = 26;
 let pageCounter = 0;
 let resultCount = 0;
 
-const sourceUrl = 'https://www.listchallenges.com/1001-albums-you-must-hear-before-you-die-all-2018/checklist/'
-const url =
-  `${sourceUrl}${pageCounter + 1}`;
-
-console.log(
-  chalk.yellow.bgBlue(
-    `\n  Scraping of ${chalk.underline.bold(url)} initiated...\n`
-  )
-);
-
-const dividers = [
-  "- ",
-  ", ",
-];
-
 
 const extractMetadata = (title) => {
-  if(title){
+  const dividers = [
+    "- ",
+    ", ",
+  ];
+
+  if (title) {
     const titleDividerOption0 = title.split(dividers[0]);
     const titleDividerOption1 = title.split(dividers[1]);
 
@@ -42,10 +33,10 @@ const extractMetadata = (title) => {
       part2 = titleDividerOption1[1];
     }
 
-    yearSearch = part2 ? /\d{4}?/g.exec(part2) : '';
+    const yearSearch = part2 ? /\d{4}?/g.exec(part2) : '';
     part3 = yearSearch ? yearSearch[0] : null;
 
-    if(part3){
+    if (part3) {
       let removeYear = part2.replace(part3, '');
       let removeParenthesis = removeYear ? removeYear.replace(' ()', '') : removeYear;
       part2 = removeParenthesis;
@@ -61,7 +52,16 @@ const extractMetadata = (title) => {
   return null;
 }
 
-const getWebsiteContent = async url => {
+const getWebsiteContent = async (counter) => {
+  const sourceUrl = `https://www.listchallenges.com/1001-albums-you-must-hear-before-you-die-all-2018/checklist`;
+  const url =
+    `${sourceUrl}/${counter}`;
+  console.log(
+    chalk.yellow.bgBlue(
+      `\n  Scraping of ${chalk.underline.bold(url)} initiated...\n`
+    )
+  );
+
   try {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
@@ -77,7 +77,7 @@ const getWebsiteContent = async url => {
       const hasResults = metadata ? true : false;
 
 
-      const artist = metadata && hasResults ? metadata.artist :  null;
+      const artist = metadata && hasResults ? metadata.artist : null;
       const album = metadata && hasResults ? metadata.album : null;
       const year = metadata && hasResults ? metadata.year : null;
 
@@ -98,8 +98,7 @@ const getWebsiteContent = async url => {
     // Pagination Elements Link
     pageCounter++;
 
-    const nextPageLink =
-      `${sourceUrl}${pageCounter + 1}`;
+    const nextPageLink = pageCounter + 1;
 
     console.log(chalk.cyan(`  Scraping: ${nextPageLink}`));
 
@@ -132,8 +131,9 @@ const exportResults = parsedResults => {
   });
 };
 
-getWebsiteContent(url);
 
-module.exports = {
+export {
+  extractMetadata,
   getWebsiteContent,
-};
+  exportResults
+}
