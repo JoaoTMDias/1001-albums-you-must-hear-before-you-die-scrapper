@@ -1,20 +1,20 @@
 // Libraries
-import axios from "axios";
+import axios from 'axios';
 import cheerio from 'cheerio';
-import fs from "fs";
-import chalk from "chalk";
+import fs from 'fs';
+import chalk from 'chalk';
 
-const outputFile = "data.json";
+const outputFile = 'data.json';
 const parsedResults = [];
 const pageLimit = 26;
 let pageCounter = 0;
-let resultCount = 0;
+const resultCount = 0;
 
 
 const extractMetadata = (title) => {
   const dividers = [
-    "- ",
-    ", ",
+    '- ',
+    ', ',
   ];
 
   if (title) {
@@ -37,8 +37,8 @@ const extractMetadata = (title) => {
     part3 = yearSearch ? yearSearch[0] : null;
 
     if (part3) {
-      let removeYear = part2.replace(part3, '');
-      let removeParenthesis = removeYear ? removeYear.replace(' ()', '') : removeYear;
+      const removeYear = part2.replace(part3, '');
+      const removeParenthesis = removeYear ? removeYear.replace(' ()', '') : removeYear;
       part2 = removeParenthesis;
     }
 
@@ -50,31 +50,47 @@ const extractMetadata = (title) => {
   }
 
   return null;
-}
+};
+
+const exportResults = (parsedResults) => {
+  fs.writeFile(outputFile, JSON.stringify(parsedResults, null, 4), (err) => {
+    if (err) {
+      console.log(err);
+    }
+    console.log(
+      chalk.yellow.bgBlue(
+        `\n ${chalk.underline.bold(
+          parsedResults.length,
+        )} Results exported successfully to ${chalk.underline.bold(
+          outputFile,
+        )}\n`,
+      ),
+    );
+  });
+};
 
 const getWebsiteContent = async (counter) => {
-  const sourceUrl = `https://www.listchallenges.com/1001-albums-you-must-hear-before-you-die-all-2018/checklist`;
-  const url =
-    `${sourceUrl}/${counter}`;
+  const sourceUrl = 'https://www.listchallenges.com/1001-albums-you-must-hear-before-you-die-all-2018/checklist';
+  const url = `${sourceUrl}/${counter}`;
   console.log(
     chalk.yellow.bgBlue(
-      `\n  Scraping of ${chalk.underline.bold(url)} initiated...\n`
-    )
+      `\n  Scraping of ${chalk.underline.bold(url)} initiated...\n`,
+    ),
   );
 
   try {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
 
-    $(".col-list-items .list-item").map((i, el) => {
-      const count = resultCount++;
+    $('.col-list-items .list-item').map((i, el) => {
+      const count = resultCount + 1;
       const title = $(el)
-        .find(".item-name")
+        .find('.item-name')
         .text()
         .trim();
 
       const metadata = extractMetadata(title);
-      const hasResults = metadata ? true : false;
+      const hasResults = !!metadata;
 
 
       const artist = metadata && hasResults ? metadata.artist : null;
@@ -82,21 +98,21 @@ const getWebsiteContent = async (counter) => {
       const year = metadata && hasResults ? metadata.year : null;
 
       const src = $(el)
-        .find(".item-image-wrapper img")
-        .attr("src");
+        .find('.item-image-wrapper img')
+        .attr('src');
       const data = {
         id: count,
-        title: title,
-        artist: artist,
-        album: album,
-        year: year,
+        title,
+        artist,
+        album,
+        year,
         cover: `https://www.listchallenges.com${src}`,
       };
       parsedResults.push(data);
     });
 
     // Pagination Elements Link
-    pageCounter++;
+    pageCounter += 1;
 
     const nextPageLink = pageCounter + 1;
 
@@ -114,26 +130,9 @@ const getWebsiteContent = async (counter) => {
   }
 };
 
-const exportResults = parsedResults => {
-  fs.writeFile(outputFile, JSON.stringify(parsedResults, null, 4), err => {
-    if (err) {
-      console.log(err);
-    }
-    console.log(
-      chalk.yellow.bgBlue(
-        `\n ${chalk.underline.bold(
-          parsedResults.length
-        )} Results exported successfully to ${chalk.underline.bold(
-          outputFile
-        )}\n`
-      )
-    );
-  });
-};
-
 
 export {
   extractMetadata,
   getWebsiteContent,
-  exportResults
-}
+  exportResults,
+};
