@@ -2,7 +2,7 @@
 import { Router, Request, Response } from 'express';
 
 // Controllers
-import { getWebsiteContent } from '../controllers/scrapper.controllers';
+import { getWebsiteContent, MetadataController } from '../controllers/index.controllers';
 
 // Router
 const routes = Router();
@@ -15,5 +15,6 @@ routes.get('/scrapper', async (req: Request, res: Response) => {
 
   return res.send(result);
 });
+routes.get('/getMetadata', MetadataController.index);
 
 export default routes;

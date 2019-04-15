@@ -11,7 +11,7 @@ let pageCounter = 0;
 const resultCount = 0;
 
 
-const extractMetadata = (title) => {
+export const extractMetadata = (title) => {
   const dividers = [
     '- ',
     ', ',
@@ -52,7 +52,7 @@ const extractMetadata = (title) => {
   return null;
 };
 
-const exportResults = (parsedResults) => {
+export const exportResults = (parsedResults) => {
   fs.writeFile(outputFile, JSON.stringify(parsedResults, null, 4), (err) => {
     if (err) {
       console.log(err);
@@ -69,7 +69,7 @@ const exportResults = (parsedResults) => {
   });
 };
 
-const getWebsiteContent = async (counter) => {
+export const getWebsiteContent = async (counter) => {
   const sourceUrl = 'https://www.listchallenges.com/1001-albums-you-must-hear-before-you-die-all-2018/checklist';
   const url = `${sourceUrl}/${counter}`;
   console.log(
@@ -131,8 +131,4 @@ const getWebsiteContent = async (counter) => {
 };
 
 
-export {
-  extractMetadata,
-  getWebsiteContent,
-  exportResults,
-};
+export default getWebsiteContent;
